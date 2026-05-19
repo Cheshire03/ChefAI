@@ -1,0 +1,233 @@
+.wrapper {
+  position: relative;
+  flex-shrink: 0;
+}
+
+/* Trigger */
+.trigger {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: 6px 10px 6px 10px;
+  border-radius: 20px;
+  border: 1.5px solid var(--bord);
+  background: var(--surf);
+  font-family: 'DM Sans', sans-serif;
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--ink2);
+  cursor: pointer;
+  transition: all .2s;
+  white-space: nowrap;
+}
+.trigger:hover {
+  border-color: var(--or);
+  color: var(--or);
+}
+.triggerActive {
+  border-color: var(--or);
+  background: var(--or-pale);
+  color: var(--or);
+}
+.triggerText {
+  max-width: 90px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.caret {
+  color: currentColor;
+  transition: transform .2s;
+  flex-shrink: 0;
+}
+.caretUp {
+  transform: rotate(180deg);
+}
+
+/* Panel */
+.panel {
+  position: absolute;
+  top: calc(100% + 8px);
+  right: 0;
+  width: 240px;
+  background: var(--white);
+  border: 1.5px solid var(--bord);
+  border-radius: 16px;
+  box-shadow: 0 8px 24px rgba(0,0,0,.10);
+  z-index: 100;
+  overflow: hidden;
+  animation: fadeIn .15s ease;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(-4px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+.panelHeader {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 12px 14px 8px;
+  border-bottom: 1px solid var(--bord);
+}
+.panelTitle {
+  font-family: 'Sora', sans-serif;
+  font-size: 11px;
+  font-weight: 700;
+  color: var(--ink);
+  text-transform: uppercase;
+  letter-spacing: .05em;
+}
+.newBtn {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  padding: 4px 8px;
+  border-radius: 8px;
+  border: 1.5px solid var(--or);
+  background: var(--or-pale);
+  font-family: 'DM Sans', sans-serif;
+  font-size: 11px;
+  font-weight: 700;
+  color: var(--or);
+  cursor: pointer;
+  transition: all .15s;
+}
+.newBtn:hover {
+  background: var(--or);
+  color: #fff;
+}
+
+/* Lista de perfiles */
+.list {
+  padding: 6px;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  max-height: 220px;
+  overflow-y: auto;
+}
+
+.empty {
+  padding: 16px 14px;
+  font-size: 12px;
+  color: var(--ink3);
+  text-align: center;
+  line-height: 1.5;
+  margin: 0;
+}
+
+.item {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 8px;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: background .15s;
+}
+.item:hover {
+  background: var(--surf);
+}
+.itemActive {
+  background: var(--or-pale);
+}
+
+.itemAvatar {
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  background: var(--surf);
+  border: 1.5px solid var(--bord);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 12px;
+  font-weight: 700;
+  color: var(--or);
+  flex-shrink: 0;
+  font-family: 'Sora', sans-serif;
+}
+.itemActive .itemAvatar {
+  background: var(--or);
+  border-color: var(--or);
+  color: #fff;
+}
+
+.itemInfo {
+  flex: 1;
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+}
+.itemName {
+  font-family: 'DM Sans', sans-serif;
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--ink);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.itemActive .itemName {
+  color: var(--or);
+}
+.itemSub {
+  font-size: 10px;
+  color: var(--ink3);
+  font-weight: 500;
+}
+
+.itemActions {
+  display: flex;
+  gap: 2px;
+  opacity: 0;
+  transition: opacity .15s;
+}
+.item:hover .itemActions {
+  opacity: 1;
+}
+.actionBtn {
+  width: 24px;
+  height: 24px;
+  border-radius: 6px;
+  border: none;
+  background: transparent;
+  color: var(--ink3);
+  display: grid;
+  place-items: center;
+  cursor: pointer;
+  transition: all .15s;
+}
+.actionBtn:hover {
+  background: var(--surf);
+  color: var(--ink);
+}
+.actionDanger:hover {
+  background: #fee2e2;
+  color: #b91c1c;
+}
+
+/* Botón favoritos */
+.favsBtn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  width: 100%;
+  padding: 10px 14px;
+  border: none;
+  border-top: 1px solid var(--bord);
+  background: transparent;
+  font-family: 'DM Sans', sans-serif;
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--ink2);
+  cursor: pointer;
+  transition: all .15s;
+}
+.favsBtn:hover {
+  background: var(--or-pale);
+  color: var(--or);
+}

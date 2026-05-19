@@ -1,13 +1,12 @@
-import './App.css';
 import React from 'react';
 import { ChatScreen } from './features/chef-chat/ChatScreen';
-import './App.css';
+import { ProfileProvider } from './features/health-profile/ProfileContext';
 
 function App() {
   return (
-    <div className="app-container">
+    <ProfileProvider>
       <ChatScreen />
-    </div>
+    </ProfileProvider>
   );
 }
 

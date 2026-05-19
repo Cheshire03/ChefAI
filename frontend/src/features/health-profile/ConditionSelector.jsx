@@ -1,23 +1,31 @@
 import React, { useState, useRef, useEffect } from 'react';
 import styles from './ConditionSelector.module.css';
 
-import { CONDITIONS } from './conditionsData';
+const CONDITIONS = [
+  { value: "diabetes",             label: "Diabetes",          desc: "Bajo en azúcar" },
+  { value: "hipertension",         label: "Hipertensión",      desc: "Bajo en sodio" },
+  { value: "celiaquia",            label: "Celiaquía",         desc: "Sin gluten" },
+  { value: "resistencia_insulina", label: "Res. insulina",     desc: "Control glucémico" },
+  { value: "colesterol_alto",      label: "Colesterol alto",   desc: "Bajo en grasas" },
+  { value: "vegetariano",          label: "Vegetariano",       desc: "Sin carne" },
+  { value: "vegano",               label: "Vegano",            desc: "Sin productos animales" },
+  { value: "alto_proteina",        label: "Alto proteína",     desc: "Dieta proteica" },
+  { value: "bajo_sodio",           label: "Bajo sodio",        desc: "Hipertensión / riñón" },
+  { value: "bajo_calorias",        label: "Bajo calorías",     desc: "Control de peso" },
+  { value: "sin_lactosa",          label: "Sin lactosa",       desc: "Intolerancia láctea" },
+];
 
 export const ConditionSelector = ({ condition, setCondition }) => {
   const [open, setOpen] = useState(false);
   const [selected, setSelected] = useState(() =>
     new Set(condition ? condition.split(',').filter(Boolean) : [])
   );
-  useEffect(() => {
-    setSelected(
-      new Set(
-        condition
-          ? condition.split(',').filter(Boolean)
-          : []
-      )
-    );
-  }, [condition]);
   const wrapperRef = useRef(null);
+
+  // Sincronizar cuando condition cambia desde afuera (ej: al seleccionar un perfil)
+  useEffect(() => {
+    setSelected(new Set(condition ? condition.split(',').filter(Boolean) : []));
+  }, [condition]);
 
   // Cerrar al click fuera
   useEffect(() => {
@@ -77,7 +85,7 @@ export const ConditionSelector = ({ condition, setCondition }) => {
           className={`${styles.caret} ${open ? styles.caretUp : ''}`}
           width="10" height="6" viewBox="0 0 10 6" fill="none"
         >
-          <path d="M1 1l4 4 4-4" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" />
+          <path d="M1 1l4 4 4-4" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round"/>
         </svg>
       </button>
 
