@@ -49,6 +49,6 @@ Abre tu navegador en el enlace que te arroje Vite (generalmente `http://localhos
 ## 5. Prueba de Humo
 Para validar que el motor híbrido local se está comunicando correctamente con la API de Gemini usando tu llave:
 1. Entra a la interfaz web.
-2. Escribe en el chat: **"tengo huevo y aguacate"**.
+2. Escribe en el chat: **"tengo huevo, tomate, cebolla y sal"**.
 3. Selecciona una restricción médica (opcional).
 4. El sistema debería responderte con una recomendación adaptada o una sugerencia inteligente que haga referencia a esos ingredientes exactos.
