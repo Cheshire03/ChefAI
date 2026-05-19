@@ -1,0 +1,446 @@
+[
+  {
+    "id": 1001,
+    "nombre": "Tacos al Pastor Clásicos",
+    "ingredientes": [
+      "carne de cerdo",
+      "achiote",
+      "vinagre",
+      "naranja",
+      "piña",
+      "cebolla",
+      "cilantro",
+      "tortilla de maíz",
+      "limón",
+      "sal"
+    ],
+    "cantidades": [
+      "500 gramo de carne de cerdo en bistec",
+      "30 gramo de achiote en pasta",
+      "2 cucharada de vinagre blanco",
+      "1/4 taza de jugo de naranja agria",
+      "1/2 piña fresca",
+      "1/4 pieza de cebolla blanca",
+      "1/4 taza de cilantro fresco",
+      "12 pieza de tortilla de maíz",
+      "2 pieza de limón",
+      "1 cucharadita de sal"
+    ],
+    "preparacion": "Paso 1: Marina la carne de cerdo con achiote, vinagre, jugo de naranja y sal por al menos 30 minutos. Corta la piña en trozos pequeños. Paso 2: Cocina la carne marinada en un sartén caliente hasta que esté bien dorada y cocida. Puedes agregar un trozo de piña a la carne mientras se cocina. Paso 3: Calienta las tortillas de maíz. Pica finamente la cebolla y el cilantro. Sirve la carne en las tortillas, añade piña picada, cebolla y cilantro. Acompaña con rodajas de limón. Sirve caliente.",
+    "tiempo": "45 min",
+    "dificultad": "media",
+    "metadata_salud": {
+      "apto_para_condiciones": [],
+      "alergias_comunes": [
+        "gluten"
+      ],
+      "tags_nutricionales": [
+        "alto_proteina"
+      ]
+    }
+  },
+  {
+    "id": 1002,
+    "nombre": "Tacos de Carnitas Michoacanas",
+    "ingredientes": [
+      "carne de cerdo",
+      "manteca de cerdo",
+      "naranja",
+      "agua",
+      "sal",
+      "tortilla de maíz",
+      "cebolla",
+      "cilantro",
+      "limón"
+    ],
+    "cantidades": [
+      "1 kilogramo de carne de cerdo en trozos",
+      "500 gramo de manteca de cerdo",
+      "1/2 pieza de naranja",
+      "1 taza de agua",
+      "1 cucharada de sal",
+      "12 pieza de tortilla de maíz",
+      "1/4 pieza de cebolla blanca",
+      "1/4 taza de cilantro fresco",
+      "2 pieza de limón"
+    ],
+    "preparacion": "Paso 1: En una olla de fondo grueso o cazuela de cobre, derrite la manteca. Agrega los trozos de carne de cerdo, la sal, el agua y la mitad de una naranja (exprimida y con cáscara). Paso 2: Cocina a fuego medio-bajo por varias horas, hasta que el agua se evapore y la carne comience a dorarse en su propia grasa y quede muy suave. Remueve ocasionalmente para que se doren uniformemente. Retira la naranja. Paso 3: Desmenuza la carne de cerdo o pica en trozos más pequeños. Calienta las tortillas de maíz. Sirve la carne en las tortillas, agrega cebolla y cilantro picados al gusto y un chorrito de limón. Sirve caliente.",
+    "tiempo": "180 min",
+    "dificultad": "media",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "colesterol_alto"
+      ],
+      "alergias_comunes": [
+        "gluten"
+      ],
+      "tags_nutricionales": [
+        "alto_proteina"
+      ]
+    }
+  },
+  {
+    "id": 1003,
+    "nombre": "Tacos de Tinga de Pollo con Chipotle",
+    "ingredientes": [
+      "pechuga de pollo",
+      "tomate",
+      "cebolla",
+      "ajo",
+      "chile chipotle",
+      "caldo de pollo",
+      "aceite vegetal",
+      "laurel",
+      "sal",
+      "tortilla de maíz",
+      "crema",
+      "queso fresco"
+    ],
+    "cantidades": [
+      "500 gramo de pechuga de pollo",
+      "3 pieza de tomate mediano",
+      "1 pieza de cebolla blanca",
+      "2 diente de ajo",
+      "3 pieza de chile chipotle en adobo",
+      "1/2 taza de caldo de pollo",
+      "2 cucharada de aceite vegetal",
+      "1 hoja de laurel",
+      "1 cucharadita de sal",
+      "12 pieza de tortilla de maíz",
+      "1/4 taza de crema ácida",
+      "50 gramo de queso fresco"
+    ],
+    "preparacion": "Paso 1: Cocina la pechuga de pollo en agua con un trozo de cebolla, ajo y laurel hasta que esté cocida. Desmenuza y reserva. En un sartén con aceite, sofríe la cebolla restante en rodajas. Paso 2: Licúa los tomates con los chiles chipotles y el caldo de pollo. Vierte esta salsa sobre la cebolla sofrita y cocina a fuego medio por 5 minutos. Agrega el pollo desmenuzado, sal y cocina por 10 minutos más hasta que la salsa espese. Paso 3: Calienta las tortillas de maíz. Sirve la tinga de pollo en las tortillas. Adorna con un poco de crema ácida y queso fresco desmoronado. Sirve caliente.",
+    "tiempo": "40 min",
+    "dificultad": "fácil",
+    "metadata_salud": {
+      "apto_para_condiciones": [],
+      "alergias_comunes": [
+        "gluten",
+        "lactosa"
+      ],
+      "tags_nutricionales": [
+        "alto_proteina",
+        "bajo_grasa"
+      ]
+    }
+  },
+  {
+    "id": 1004,
+    "nombre": "Tacos de Pescado Estilo Baja California",
+    "ingredientes": [
+      "filete de pescado blanco",
+      "harina",
+      "cerveza",
+      "huevo",
+      "aceite vegetal",
+      "col blanca",
+      "mayonesa",
+      "crema",
+      "limón",
+      "cilantro",
+      "tortilla de maíz",
+      "salsa picante"
+    ],
+    "cantidades": [
+      "500 gramo de filete de pescado blanco",
+      "1 taza de harina de trigo",
+      "1/2 taza de cerveza fría",
+      "1 pieza de huevo",
+      "2 taza de aceite vegetal para freír",
+      "1/2 pieza de col blanca",
+      "1/4 taza de mayonesa",
+      "1/4 taza de crema ácida",
+      "1 pieza de limón",
+      "1/4 taza de cilantro fresco",
+      "12 pieza de tortilla de maíz",
+      "al gusto de salsa picante"
+    ],
+    "preparacion": "Paso 1: Corta el pescado en tiras delgadas. Para el capeado, mezcla la harina, cerveza, huevo y una pizca de sal hasta obtener una masa homogénea. Calienta el aceite en una olla profunda. Pasa las tiras de pescado por el capeado y fríe hasta que estén doradas y crujientes. Paso 2: Para la salsa blanca, mezcla la mayonesa, crema, jugo de limón y cilantro picado finamente. Rebana la col blanca en tiras muy finas. Paso 3: Calienta las tortillas de maíz. Sirve el pescado capeado en las tortillas, agrega col rallada y un poco de la salsa blanca. Puedes añadir salsa picante al gusto. Sirve inmediatamente.",
+    "tiempo": "35 min",
+    "dificultad": "media",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "colesterol_alto"
+      ],
+      "alergias_comunes": [
+        "gluten",
+        "huevo",
+        "lactosa",
+        "mariscos"
+      ],
+      "tags_nutricionales": [
+        "rico_omega3"
+      ]
+    }
+  },
+  {
+    "id": 1005,
+    "nombre": "Tacos Vegetarianos de Frijol y Nopales",
+    "ingredientes": [
+      "frijol negro",
+      "nopales",
+      "cebolla",
+      "ajo",
+      "chile serrano",
+      "cilantro",
+      "aguacate",
+      "limón",
+      "tortilla de maíz",
+      "sal",
+      "aceite vegetal"
+    ],
+    "cantidades": [
+      "2 taza de frijol negro cocido",
+      "2 taza de nopales cocidos y picados",
+      "1/2 pieza de cebolla blanca",
+      "2 diente de ajo",
+      "1 pieza de chile serrano",
+      "1/4 taza de cilantro fresco",
+      "1 pieza de aguacate",
+      "1 pieza de limón",
+      "12 pieza de tortilla de maíz",
+      "1 cucharadita de sal",
+      "2 cucharada de aceite vegetal"
+    ],
+    "preparacion": "Paso 1: En un sartén con aceite, sofríe la mitad de la cebolla picada y el ajo picado. Agrega los nopales cocidos y escurridos, cocina por unos minutos. Añade los frijoles negros cocidos y machaca ligeramente. Sazona con sal y deja que se incorporen los sabores. Paso 2: Pica finamente la cebolla restante, el chile serrano y el cilantro para hacer un pico de gallo sencillo. Rebana el aguacate. Paso 3: Calienta las tortillas de maíz. Rellena con la mezcla de frijol y nopal. Agrega el pico de gallo y unas rebanadas de aguacate. Acompaña con jugo de limón. Sirve caliente.",
+    "tiempo": "30 min",
+    "dificultad": "fácil",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "diabetes",
+        "hipertension",
+        "resistencia_insulina"
+      ],
+      "alergias_comunes": [
+        "gluten"
+      ],
+      "tags_nutricionales": [
+        "vegetariano",
+        "alto_fibra",
+        "bajo_calorias",
+        "sin_gluten"
+      ]
+    }
+  },
+  {
+    "id": 1006,
+    "nombre": "Sopes de Chorizo con Papa",
+    "ingredientes": [
+      "masa de maíz",
+      "chorizo",
+      "papa",
+      "cebolla",
+      "frijol refrito",
+      "crema",
+      "queso fresco",
+      "lechuga",
+      "aceite vegetal",
+      "sal"
+    ],
+    "cantidades": [
+      "500 gramo de masa de maíz",
+      "200 gramo de chorizo",
+      "2 pieza de papa mediana",
+      "1/4 pieza de cebolla blanca",
+      "1 taza de frijol refrito",
+      "1/2 taza de crema ácida",
+      "100 gramo de queso fresco",
+      "1/2 pieza de lechuga",
+      "2 taza de aceite vegetal para freír",
+      "1 cucharadita de sal"
+    ],
+    "preparacion": "Paso 1: Hierve las papas hasta que estén suaves, pélalas y machácalas. En un sartén, cocina el chorizo hasta que esté bien frito, retira el exceso de grasa y mezcla con la papa machacada. Paso 2: Forma pequeñas bolitas con la masa de maíz y aplánalas para hacer discos gruesos (sopes). Cocina los sopes en un comal caliente hasta que estén ligeramente dorados, luego haz un borde alrededor para formar la 'orilla'. Fríelos ligeramente en aceite caliente por un minuto de cada lado. Paso 3: Unta cada sope con frijoles refritos. Agrega la mezcla de chorizo con papa. Decora con lechuga rallada, crema ácida y queso fresco desmoronado. Sirve caliente.",
+    "tiempo": "50 min",
+    "dificultad": "media",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "colesterol_alto"
+      ],
+      "alergias_comunes": [
+        "gluten",
+        "lactosa"
+      ],
+      "tags_nutricionales": [
+        "alto_proteina"
+      ]
+    }
+  },
+  {
+    "id": 1007,
+    "nombre": "Quesadillas de Flor de Calabaza",
+    "ingredientes": [
+      "tortilla de maíz",
+      "flor de calabaza",
+      "queso oaxaca",
+      "cebolla",
+      "ajo",
+      "chile poblano",
+      "aceite vegetal",
+      "sal"
+    ],
+    "cantidades": [
+      "8 pieza de tortilla de maíz",
+      "200 gramo de flor de calabaza",
+      "200 gramo de queso oaxaca",
+      "1/4 pieza de cebolla blanca",
+      "1 diente de ajo",
+      "1 pieza de chile poblano",
+      "2 cucharada de aceite vegetal",
+      "1 cucharadita de sal"
+    ],
+    "preparacion": "Paso 1: Lava y desinfecta la flor de calabaza, retira los pistilos y pica groseramente. Tuesta el chile poblano, pélalo, desvénalo y córtalo en rajas. Pica finamente la cebolla y el ajo. Paso 2: En un sartén con aceite, sofríe la cebolla y el ajo hasta que estén transparentes. Agrega la flor de calabaza y las rajas de chile poblano. Cocina por unos minutos hasta que la flor se ablande. Sazona con sal. Paso 3: Calienta las tortillas de maíz. Rellena cada tortilla con un poco de queso oaxaca y la mezcla de flor de calabaza. Dobla la tortilla a la mitad y cocina en un comal hasta que el queso se derrita y las tortillas estén ligeramente doradas. Sirve caliente.",
+    "tiempo": "30 min",
+    "dificultad": "fácil",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "diabetes",
+        "hipertension"
+      ],
+      "alergias_comunes": [
+        "gluten",
+        "lactosa"
+      ],
+      "tags_nutricionales": [
+        "vegetariano",
+        "bajo_calorias",
+        "antioxidante",
+        "sin_gluten"
+      ]
+    }
+  },
+  {
+    "id": 1008,
+    "nombre": "Panuchos de Cochinita Pibil Yucatecos",
+    "ingredientes": [
+      "masa de maíz",
+      "cochinita pibil",
+      "frijol negro refrito",
+      "cebolla morada",
+      "naranja agria",
+      "chile habanero",
+      "aguacate",
+      "aceite vegetal",
+      "sal"
+    ],
+    "cantidades": [
+      "500 gramo de masa de maíz",
+      "300 gramo de cochinita pibil cocida",
+      "1 taza de frijol negro refrito",
+      "1 pieza de cebolla morada",
+      "1/2 pieza de naranja agria",
+      "1 pieza de chile habanero",
+      "1 pieza de aguacate",
+      "2 taza de aceite vegetal para freír",
+      "1 cucharadita de sal"
+    ],
+    "preparacion": "Paso 1: Prepara la cochinita pibil con anticipación. Para los panuchos, toma porciones de masa de maíz y forma una tortilla gruesa. Cocina la tortilla en un comal hasta que se infle ligeramente, haz una pequeña incisión y rellena cuidadosamente con una cucharada de frijol refrito. Cierra y vuelve a presionar. Paso 2: Fríe los panuchos rellenos en aceite caliente hasta que estén dorados y crujientes. Retira el exceso de grasa. Paso 3: Sirve cada panucho con una porción generosa de cochinita pibil encima. Prepara una salsa de cebolla morada curtida con naranja agria y chile habanero picado. Acompaña con rebanadas de aguacate y la cebolla curtida. Sirve caliente.",
+    "tiempo": "60 min",
+    "dificultad": "media",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "colesterol_alto"
+      ],
+      "alergias_comunes": [
+        "gluten"
+      ],
+      "tags_nutricionales": [
+        "alto_proteina"
+      ]
+    }
+  },
+  {
+    "id": 1009,
+    "nombre": "Tostadas de Salpicón de Res",
+    "ingredientes": [
+      "carne de res",
+      "lechuga",
+      "rábano",
+      "cebolla morada",
+      "aguacate",
+      "limón",
+      "tostada de maíz",
+      "aceite de oliva",
+      "sal",
+      "pimienta"
+    ],
+    "cantidades": [
+      "300 gramo de carne de res cocida y deshebrada",
+      "1/2 pieza de lechuga",
+      "4 pieza de rábano",
+      "1/4 pieza de cebolla morada",
+      "1 pieza de aguacate",
+      "2 pieza de limón",
+      "6 pieza de tostada de maíz",
+      "2 cucharada de aceite de oliva",
+      "1 cucharadita de sal",
+      "1/2 cucharadita de pimienta"
+    ],
+    "preparacion": "Paso 1: Cocina la carne de res hasta que esté suave, deshébrala finamente y deja enfriar. En un tazón grande, mezcla la carne deshebrada con la lechuga picada, los rábanos rebanados finamente y la cebolla morada en julianas delgadas. Paso 2: Adereza la mezcla con el jugo de limón, aceite de oliva, sal y pimienta al gusto. Mezcla bien para que todos los ingredientes se incorporen. Paso 3: Sirve una porción generosa de salpicón sobre cada tostada de maíz. Decora con rebanadas de aguacate fresco. Sirve inmediatamente.",
+    "tiempo": "30 min",
+    "dificultad": "fácil",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "diabetes",
+        "hipertension",
+        "colesterol_alto",
+        "resistencia_insulina"
+      ],
+      "alergias_comunes": [
+        "gluten"
+      ],
+      "tags_nutricionales": [
+        "alto_proteina",
+        "bajo_grasa",
+        "alto_fibra",
+        "sin_gluten"
+      ]
+    }
+  },
+  {
+    "id": 1010,
+    "nombre": "Tacos de Suadero con Salsa Roja",
+    "ingredientes": [
+      "suadero de res",
+      "cebolla blanca",
+      "ajo",
+      "cilantro",
+      "tortilla de maíz",
+      "chile guajillo",
+      "chile ancho",
+      "tomate",
+      "comino",
+      "orégano",
+      "aceite vegetal",
+      "sal"
+    ],
+    "cantidades": [
+      "500 gramo de suadero de res",
+      "1/2 pieza de cebolla blanca",
+      "2 diente de ajo",
+      "1/4 taza de cilantro fresco",
+      "12 pieza de tortilla de maíz",
+      "3 pieza de chile guajillo",
+      "2 pieza de chile ancho",
+      "2 pieza de tomate",
+      "1/4 cucharadita de comino molido",
+      "1/4 cucharadita de orégano seco",
+      "3 cucharada de aceite vegetal",
+      "1 cucharadita de sal"
+    ],
+    "preparacion": "Paso 1: Cocina el suadero de res en agua con un trozo de cebolla y un diente de ajo hasta que esté muy suave. Una vez cocido, pica el suadero en trozos pequeños. En un sartén con aceite, fríe el suadero picado hasta que esté dorado y crujiente por fuera. Paso 2: Para la salsa roja, tuesta los chiles guajillo y ancho, desvénalos y remójalos en agua caliente hasta que estén suaves. Licúa los chiles con el tomate cocido, el otro diente de ajo, un trozo de cebolla, comino, orégano y un poco del agua de remojo de los chiles. Cuela la salsa y sazónala con sal. Paso 3: Calienta las tortillas de maíz. Sirve el suadero frito en las tortillas, agrega salsa roja al gusto, cebolla picada y cilantro picado. Sirve caliente.",
+    "tiempo": "60 min",
+    "dificultad": "media",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "colesterol_alto"
+      ],
+      "alergias_comunes": [
+        "gluten"
+      ],
+      "tags_nutricionales": [
+        "alto_proteina"
+      ]
+    }
+  }
+]

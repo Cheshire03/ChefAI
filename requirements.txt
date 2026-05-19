@@ -1,0 +1,10 @@
+flask
+flask-cors
+python-dotenv
+pandas
+numpy
+scikit-learn
+nltk
+networkx
+joblib
+google-genai

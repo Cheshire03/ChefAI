@@ -1,0 +1,49 @@
+html,
+body,
+#root {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  overflow: hidden;
+  background: var(--cream);
+  font-family: 'DM Sans', sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.app-container {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+}
+
+/* Área de scroll reutilizable */
+.scroll-area {
+  flex: 1;
+  overflow-y: auto;
+  overflow-x: hidden;
+
+  scrollbar-width: thin;
+}
+
+/* Scroll bonito chrome */
+.scroll-area::-webkit-scrollbar {
+  width: 8px;
+}
+
+.scroll-area::-webkit-scrollbar-thumb {
+  background: rgba(0,0,0,.12);
+  border-radius: 10px;
+}
+
+@media (max-width: 768px) {
+  .app-container {
+    height: 100dvh;
+  }
+}

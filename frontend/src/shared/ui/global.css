@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@700;800&family=DM+Sans:wght@400;500;600;700&display=swap');
+@import './design-tokens.css';
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body,
+#root {
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  font-family: 'DM Sans', sans-serif;
+  background: var(--cream);
+  overflow: hidden;
+}
+
+/* App principal */
+.app-container {
+  width: 100%;
+  height: 100vh;
+
+  background: var(--cream);
+
+  display: flex;
+  flex-direction: column;
+
+  overflow: hidden;
+}
+
+/* Scroll del chat */
+.scroll-area {
+  flex: 1;
+
+  overflow-y: auto;
+  overflow-x: hidden;
+
+  display: flex;
+  flex-direction: column;
+}
+
+/* Scrollbar */
+.scroll-area::-webkit-scrollbar {
+  width: 6px;
+}
+
+.scroll-area::-webkit-scrollbar-thumb {
+  background: rgba(0,0,0,.15);
+  border-radius: 20px;
+}
+
+/* Mobile moderno */
+@media (max-width: 768px) {
+  .app-container {
+    height: 100dvh;
+  }
+}

@@ -1,0 +1,186 @@
+/* Wrapper relativo para posicionar el dropdown */
+.wrapper {
+  position: relative;
+  flex-shrink: 0;
+}
+
+/* ── Trigger pill ── */
+.trigger {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: 6px 10px 6px 12px;
+  border-radius: 20px;
+  border: 1.5px solid var(--bord);
+  background: var(--surf);
+  font-family: 'DM Sans', sans-serif;
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--ink2);
+  cursor: pointer;
+  transition: all .2s;
+  white-space: nowrap;
+}
+.trigger:hover {
+  border-color: var(--or);
+  color: var(--or);
+}
+.triggerOpen {
+  border-color: var(--or);
+  background: var(--or-pale);
+  color: var(--or);
+}
+.triggerText {
+  max-width: 120px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/* Badge con conteo */
+.badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 18px;
+  height: 18px;
+  padding: 0 5px;
+  border-radius: 10px;
+  background: var(--or);
+  color: #fff;
+  font-size: 10px;
+  font-weight: 700;
+  line-height: 1;
+}
+
+/* X para limpiar dentro del trigger */
+.clearX {
+  font-size: 14px;
+  line-height: 1;
+  color: var(--ink3);
+  cursor: pointer;
+  padding: 0 2px;
+  border-radius: 50%;
+  transition: color .15s;
+}
+.clearX:hover {
+  color: var(--or);
+}
+
+/* Caret */
+.caret {
+  color: var(--ink3);
+  transition: transform .2s;
+  flex-shrink: 0;
+}
+.caretUp {
+  transform: rotate(180deg);
+}
+
+/* ── Dropdown panel ── */
+.panel {
+  position: absolute;
+  top: calc(100% + 8px);
+  right: 0;
+  width: 280px;
+  background: var(--white);
+  border: 1.5px solid var(--bord);
+  border-radius: 16px;
+  padding: 12px;
+  box-shadow: 0 8px 24px rgba(0,0,0,.10);
+  z-index: 100;
+  animation: fadeIn .15s ease;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(-4px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+.panelHeader {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+.panelTitle {
+  font-family: 'Sora', sans-serif;
+  font-size: 12px;
+  font-weight: 700;
+  color: var(--ink);
+  text-transform: uppercase;
+  letter-spacing: .05em;
+}
+.clearAll {
+  background: none;
+  border: none;
+  font-family: 'DM Sans', sans-serif;
+  font-size: 11px;
+  font-weight: 600;
+  color: var(--ink3);
+  cursor: pointer;
+  padding: 2px 6px;
+  border-radius: 6px;
+  transition: color .15s, background .15s;
+}
+.clearAll:hover {
+  color: var(--or);
+  background: var(--or-pale);
+}
+
+/* ── Chips grid ── */
+.chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 5px 10px;
+  border-radius: 20px;
+  border: 1.5px solid var(--bord);
+  background: var(--surf);
+  font-family: 'DM Sans', sans-serif;
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--ink2);
+  cursor: pointer;
+  transition: all .15s;
+  line-height: 1;
+}
+.chip:hover {
+  border-color: var(--or);
+  color: var(--or);
+  background: var(--or-pale);
+}
+.chipActive {
+  background: var(--or);
+  border-color: var(--or);
+  color: #fff;
+  box-shadow: var(--sh-or);
+}
+.chipActive:hover {
+  background: var(--or);
+  color: #fff;
+  opacity: .88;
+}
+
+.check {
+  font-size: 10px;
+  font-weight: 700;
+  line-height: 1;
+}
+
+/* ── Preview de seleccionados ── */
+.preview {
+  margin-top: 10px;
+  padding: 7px 10px;
+  background: var(--or-pale);
+  border-radius: 10px;
+  font-size: 11px;
+  font-weight: 600;
+  color: var(--or);
+  line-height: 1.4;
+}

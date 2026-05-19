@@ -1,0 +1,21 @@
+.select {
+  border: 1.5px solid var(--bord);
+  background: var(--surf);
+  border-radius: 16px;
+  padding: 7px 12px;
+  font-size: 12px;
+  font-weight: 700;
+  color: var(--ink2);
+  outline: none;
+  cursor: pointer;
+  transition: all .2s;
+}
+
+.select:hover {
+  border-color: var(--or);
+}
+
+.select:focus {
+  border-color: var(--or);
+  box-shadow: 0 0 0 4px var(--or-glow);
+}

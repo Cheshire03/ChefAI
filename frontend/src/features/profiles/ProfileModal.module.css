@@ -1,0 +1,123 @@
+.overlay {
+  position: fixed;
+  inset: 0;
+
+  background: rgba(0,0,0,.45);
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  z-index: 999;
+}
+
+.modal {
+  width: 420px;
+  max-width: 90vw;
+
+  background: white;
+
+  border-radius: 24px;
+
+  padding: 24px;
+
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.header h2 {
+  font-size: 22px;
+}
+
+.header button {
+  border: none;
+  background: none;
+  font-size: 18px;
+  cursor: pointer;
+}
+
+.input {
+  height: 46px;
+
+  border-radius: 14px;
+  border: 1.5px solid var(--bord);
+
+  padding: 0 14px;
+
+  font-size: 14px;
+}
+
+.conditions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.chip {
+  border: 1.5px solid var(--bord);
+
+  background: var(--surf);
+
+  border-radius: 999px;
+
+  padding: 8px 12px;
+
+  cursor: pointer;
+
+  font-size: 12px;
+  font-weight: 700;
+}
+
+.active {
+  background: var(--or);
+  color: white;
+  border-color: var(--or);
+}
+
+.saveBtn {
+  height: 48px;
+
+  border: none;
+  border-radius: 16px;
+
+  background: var(--or);
+  color: white;
+
+  font-weight: 700;
+
+  cursor: pointer;
+}
+
+.section {
+  margin-top: 14px;
+}
+
+.section label {
+  display: block;
+  margin-bottom: 6px;
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--ink);
+}
+
+.section select {
+  width: 100%;
+  padding: 10px 12px;
+  border-radius: 12px;
+  border: 1.5px solid var(--bord);
+  background: var(--white);
+  font-family: 'DM Sans', sans-serif;
+  font-size: 13px;
+  outline: none;
+}
+
+.section select:focus {
+  border-color: var(--or);
+}

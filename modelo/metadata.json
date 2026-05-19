@@ -1,0 +1,9 @@
+{
+  "total_recetas": 200,
+  "vocabulario_tamano": 1101,
+  "densidad_matriz": 1.0,
+  "tamano_matriz": [
+    200,
+    1101
+  ]
+}

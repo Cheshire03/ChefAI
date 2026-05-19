@@ -1,0 +1,25 @@
+:root {
+  --or: #FF5C00;
+  --or2: #FF7A2F;
+  --or-pale: #FFF0E8;
+  --or-glow: rgba(255, 92, 0, 0.18);
+  --cream: #FDFCFA;
+  --white: #fff;
+  --ink: #1C1917;
+  --ink2: #57534E;
+  --ink3: #A8A29E;
+  --surf: #F5F3F1;
+  --surf2: #ECEAE7;
+  --bord: #E8E4DF;
+  --green: #22C55E;
+  --green-pale: #DCFCE7;
+  --green-dk: #166534;
+  --r8: 8px;
+  --r12: 12px;
+  --r16: 16px;
+  --r20: 20px;
+  --r24: 24px;
+  --sh-sm: 0 1px 4px rgba(0, 0, 0, 0.06), 0 2px 8px rgba(0, 0, 0, 0.04);
+  --sh-md: 0 4px 16px rgba(0, 0, 0, 0.08), 0 1px 4px rgba(0, 0, 0, 0.04);
+  --sh-or: 0 4px 20px rgba(255, 92, 0, 0.3);
+}

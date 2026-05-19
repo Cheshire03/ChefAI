@@ -1,0 +1,4527 @@
+[
+  {
+    "id": 1,
+    "nombre": "Huevos a la mexicana",
+    "ingredientes": [
+      "aceite",
+      "huevo",
+      "aguacate",
+      "tomate",
+      "sal",
+      "cebolla",
+      "chile"
+    ],
+    "cantidades": [
+      "1 porción de aceite",
+      "1 porción de huevo",
+      "1 porción de aguacate",
+      "1 porción de tomate",
+      "1 porción de sal",
+      "1 porción de cebolla",
+      "1 porción de chile"
+    ],
+    "preparacion": "Prepara los ingredientes. Mezcla todo en un sartén o cacerola y cocina hasta que esté listo. Disfruta tu Huevos a la mexicana.",
+    "tiempo": "58 min",
+    "dificultad": "media",
+    "metadata_salud": {
+      "apto_para_condiciones": [],
+      "alergias_comunes": [],
+      "tags_nutricionales": [
+        "alto_proteina"
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "nombre": "Chilaquiles con huevo",
+    "ingredientes": [
+      "aceite",
+      "huevo",
+      "tomate",
+      "sal",
+      "cebolla",
+      "chile"
+    ],
+    "cantidades": [
+      "1 porción de aceite",
+      "1 porción de huevo",
+      "1 porción de tomate",
+      "1 porción de sal",
+      "1 porción de cebolla",
+      "1 porción de chile"
+    ],
+    "preparacion": "Prepara los ingredientes. Mezcla todo en un sartén o cacerola y cocina hasta que esté listo. Disfruta tu Chilaquiles con huevo.",
+    "tiempo": "45 min",
+    "dificultad": "fácil",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "celiaquia",
+        "resistencia_insulina"
+      ],
+      "alergias_comunes": [],
+      "tags_nutricionales": [
+        "alto_proteina"
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "nombre": "Omelette de espinacas",
+    "ingredientes": [
+      "aceite",
+      "huevo",
+      "aguacate",
+      "tomate",
+      "sal",
+      "cebolla",
+      "chile"
+    ],
+    "cantidades": [
+      "1 porción de aceite",
+      "1 porción de huevo",
+      "1 porción de aguacate",
+      "1 porción de tomate",
+      "1 porción de sal",
+      "1 porción de cebolla",
+      "1 porción de chile"
+    ],
+    "preparacion": "Prepara los ingredientes. Mezcla todo en un sartén o cacerola y cocina hasta que esté listo. Disfruta tu Omelette de espinacas.",
+    "tiempo": "46 min",
+    "dificultad": "media",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "hipertension"
+      ],
+      "alergias_comunes": [],
+      "tags_nutricionales": [
+        "alto_proteina"
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "nombre": "Huevos rancheros",
+    "ingredientes": [
+      "aceite",
+      "huevo",
+      "tomate",
+      "sal",
+      "cebolla",
+      "chile"
+    ],
+    "cantidades": [
+      "1 porción de aceite",
+      "1 porción de huevo",
+      "1 porción de tomate",
+      "1 porción de sal",
+      "1 porción de cebolla",
+      "1 porción de chile"
+    ],
+    "preparacion": "Prepara los ingredientes. Mezcla todo en un sartén o cacerola y cocina hasta que esté listo. Disfruta tu Huevos rancheros.",
+    "tiempo": "23 min",
+    "dificultad": "media",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "celiaquia"
+      ],
+      "alergias_comunes": [],
+      "tags_nutricionales": [
+        "alto_proteina"
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "nombre": "Huevos revueltos con jamón",
+    "ingredientes": [
+      "aceite",
+      "huevo",
+      "aguacate",
+      "tomate",
+      "sal",
+      "cebolla",
+      "chile"
+    ],
+    "cantidades": [
+      "1 porción de aceite",
+      "1 porción de huevo",
+      "1 porción de aguacate",
+      "1 porción de tomate",
+      "1 porción de sal",
+      "1 porción de cebolla",
+      "1 porción de chile"
+    ],
+    "preparacion": "Prepara los ingredientes. Mezcla todo en un sartén o cacerola y cocina hasta que esté listo. Disfruta tu Huevos revueltos con jamón.",
+    "tiempo": "60 min",
+    "dificultad": "fácil",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "colesterol_alto"
+      ],
+      "alergias_comunes": [],
+      "tags_nutricionales": [
+        "alto_proteina"
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "nombre": "Huevos motuleños",
+    "ingredientes": [
+      "aceite",
+      "huevo",
+      "tomate",
+      "sal",
+      "cebolla",
+      "chile"
+    ],
+    "cantidades": [
+      "1 porción de aceite",
+      "1 porción de huevo",
+      "1 porción de tomate",
+      "1 porción de sal",
+      "1 porción de cebolla",
+      "1 porción de chile"
+    ],
+    "preparacion": "Prepara los ingredientes. Mezcla todo en un sartén o cacerola y cocina hasta que esté listo. Disfruta tu Huevos motuleños.",
+    "tiempo": "41 min",
+    "dificultad": "fácil",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "colesterol_alto"
+      ],
+      "alergias_comunes": [],
+      "tags_nutricionales": [
+        "alto_proteina"
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "nombre": "Huevos ahogados",
+    "ingredientes": [
+      "aceite",
+      "huevo",
+      "aguacate",
+      "tomate",
+      "sal",
+      "cebolla",
+      "chile"
+    ],
+    "cantidades": [
+      "1 porción de aceite",
+      "1 porción de huevo",
+      "1 porción de aguacate",
+      "1 porción de tomate",
+      "1 porción de sal",
+      "1 porción de cebolla",
+      "1 porción de chile"
+    ],
+    "preparacion": "Prepara los ingredientes. Mezcla todo en un sartén o cacerola y cocina hasta que esté listo. Disfruta tu Huevos ahogados.",
+    "tiempo": "48 min",
+    "dificultad": "media",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "hipertension"
+      ],
+      "alergias_comunes": [],
+      "tags_nutricionales": [
+        "alto_proteina"
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "nombre": "Huevos con chorizo",
+    "ingredientes": [
+      "aceite",
+      "huevo",
+      "tomate",
+      "sal",
+      "cebolla",
+      "chile"
+    ],
+    "cantidades": [
+      "1 porción de aceite",
+      "1 porción de huevo",
+      "1 porción de tomate",
+      "1 porción de sal",
+      "1 porción de cebolla",
+      "1 porción de chile"
+    ],
+    "preparacion": "Prepara los ingredientes. Mezcla todo en un sartén o cacerola y cocina hasta que esté listo. Disfruta tu Huevos con chorizo.",
+    "tiempo": "58 min",
+    "dificultad": "fácil",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "celiaquia"
+      ],
+      "alergias_comunes": [],
+      "tags_nutricionales": [
+        "alto_proteina"
+      ]
+    }
+  },
+  {
+    "id": 9,
+    "nombre": "Frittata de vegetales",
+    "ingredientes": [
+      "aceite",
+      "huevo",
+      "aguacate",
+      "tomate",
+      "sal",
+      "cebolla",
+      "chile"
+    ],
+    "cantidades": [
+      "1 porción de aceite",
+      "1 porción de huevo",
+      "1 porción de aguacate",
+      "1 porción de tomate",
+      "1 porción de sal",
+      "1 porción de cebolla",
+      "1 porción de chile"
+    ],
+    "preparacion": "Prepara los ingredientes. Mezcla todo en un sartén o cacerola y cocina hasta que esté listo. Disfruta tu Frittata de vegetales.",
+    "tiempo": "41 min",
+    "dificultad": "media",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "hipertension"
+      ],
+      "alergias_comunes": [],
+      "tags_nutricionales": [
+        "alto_proteina"
+      ]
+    }
+  },
+  {
+    "id": 10,
+    "nombre": "Huevos cocidos con aguacate",
+    "ingredientes": [
+      "aceite",
+      "huevo",
+      "tomate",
+      "sal",
+      "cebolla",
+      "chile"
+    ],
+    "cantidades": [
+      "1 porción de aceite",
+      "1 porción de huevo",
+      "1 porción de tomate",
+      "1 porción de sal",
+      "1 porción de cebolla",
+      "1 porción de chile"
+    ],
+    "preparacion": "Prepara los ingredientes. Mezcla todo en un sartén o cacerola y cocina hasta que esté listo. Disfruta tu Huevos cocidos con aguacate.",
+    "tiempo": "41 min",
+    "dificultad": "fácil",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "celiaquia",
+        "resistencia_insulina"
+      ],
+      "alergias_comunes": [],
+      "tags_nutricionales": [
+        "alto_proteina"
+      ]
+    }
+  },
+  {
+    "id": 11,
+    "nombre": "Huevo estilo ChefMind 10",
+    "ingredientes": [
+      "aceite",
+      "huevo",
+      "aguacate",
+      "tomate",
+      "sal",
+      "cebolla",
+      "chile"
+    ],
+    "cantidades": [
+      "1 porción de aceite",
+      "1 porción de huevo",
+      "1 porción de aguacate",
+      "1 porción de tomate",
+      "1 porción de sal",
+      "1 porción de cebolla",
+      "1 porción de chile"
+    ],
+    "preparacion": "Prepara los ingredientes. Mezcla todo en un sartén o cacerola y cocina hasta que esté listo. Disfruta tu Huevo estilo ChefMind 10.",
+    "tiempo": "27 min",
+    "dificultad": "fácil",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "hipertension"
+      ],
+      "alergias_comunes": [],
+      "tags_nutricionales": [
+        "alto_proteina"
+      ]
+    }
+  },
+  {
+    "id": 12,
+    "nombre": "Huevo estilo ChefMind 11",
+    "ingredientes": [
+      "aceite",
+      "huevo",
+      "tomate",
+      "sal",
+      "cebolla",
+      "chile"
+    ],
+    "cantidades": [
+      "1 porción de aceite",
+      "1 porción de huevo",
+      "1 porción de tomate",
+      "1 porción de sal",
+      "1 porción de cebolla",
+      "1 porción de chile"
+    ],
+    "preparacion": "Prepara los ingredientes. Mezcla todo en un sartén o cacerola y cocina hasta que esté listo. Disfruta tu Huevo estilo ChefMind 11.",
+    "tiempo": "45 min",
+    "dificultad": "media",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "colesterol_alto"
+      ],
+      "alergias_comunes": [],
+      "tags_nutricionales": [
+        "alto_proteina"
+      ]
+    }
+  },
+  {
+    "id": 13,
+    "nombre": "Huevo estilo ChefMind 12",
+    "ingredientes": [
+      "aceite",
+      "huevo",
+      "aguacate",
+      "tomate",
+      "sal",
+      "cebolla",
+      "chile"
+    ],
+    "cantidades": [
+      "1 porción de aceite",
+      "1 porción de huevo",
+      "1 porción de aguacate",
+      "1 porción de tomate",
+      "1 porción de sal",
+      "1 porción de cebolla",
+      "1 porción de chile"
+    ],
+    "preparacion": "Prepara los ingredientes. Mezcla todo en un sartén o cacerola y cocina hasta que esté listo. Disfruta tu Huevo estilo ChefMind 12.",
+    "tiempo": "32 min",
+    "dificultad": "fácil",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "diabetes"
+      ],
+      "alergias_comunes": [],
+      "tags_nutricionales": [
+        "alto_proteina"
+      ]
+    }
+  },
+  {
+    "id": 14,
+    "nombre": "Huevo estilo ChefMind 13",
+    "ingredientes": [
+      "aceite",
+      "huevo",
+      "tomate",
+      "sal",
+      "cebolla",
+      "chile"
+    ],
+    "cantidades": [
+      "1 porción de aceite",
+      "1 porción de huevo",
+      "1 porción de tomate",
+      "1 porción de sal",
+      "1 porción de cebolla",
+      "1 porción de chile"
+    ],
+    "preparacion": "Prepara los ingredientes. Mezcla todo en un sartén o cacerola y cocina hasta que esté listo. Disfruta tu Huevo estilo ChefMind 13.",
+    "tiempo": "49 min",
+    "dificultad": "fácil",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "hipertension"
+      ],
+      "alergias_comunes": [],
+      "tags_nutricionales": [
+        "alto_proteina"
+      ]
+    }
+  },
+  {
+    "id": 15,
+    "nombre": "Huevo estilo ChefMind 14",
+    "ingredientes": [
+      "aceite",
+      "huevo",
+      "aguacate",
+      "tomate",
+      "sal",
+      "cebolla",
+      "chile"
+    ],
+    "cantidades": [
+      "1 porción de aceite",
+      "1 porción de huevo",
+      "1 porción de aguacate",
+      "1 porción de tomate",
+      "1 porción de sal",
+      "1 porción de cebolla",
+      "1 porción de chile"
+    ],
+    "preparacion": "Prepara los ingredientes. Mezcla todo en un sartén o cacerola y cocina hasta que esté listo. Disfruta tu Huevo estilo ChefMind 14.",
+    "tiempo": "35 min",
+    "dificultad": "media",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "celiaquia"
+      ],
+      "alergias_comunes": [],
+      "tags_nutricionales": [
+        "alto_proteina"
+      ]
+    }
+  },
+  {
+    "id": 16,
+    "nombre": "Huevo estilo ChefMind 15",
+    "ingredientes": [
+      "aceite",
+      "huevo",
+      "tomate",
+      "sal",
+      "cebolla",
+      "chile"
+    ],
+    "cantidades": [
+      "1 porción de aceite",
+      "1 porción de huevo",
+      "1 porción de tomate",
+      "1 porción de sal",
+      "1 porción de cebolla",
+      "1 porción de chile"
+    ],
+    "preparacion": "Prepara los ingredientes. Mezcla todo en un sartén o cacerola y cocina hasta que esté listo. Disfruta tu Huevo estilo ChefMind 15.",
+    "tiempo": "18 min",
+    "dificultad": "fácil",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "diabetes"
+      ],
+      "alergias_comunes": [],
+      "tags_nutricionales": [
+        "alto_proteina"
+      ]
+    }
+  },
+  {
+    "id": 17,
+    "nombre": "Pollo a la plancha",
+    "ingredientes": [
+      "ajo",
+      "pollo",
+      "pimienta",
+      "agua",
+      "arroz",
+      "sal",
+      "cebolla"
+    ],
+    "cantidades": [
+      "1 porción de ajo",
+      "1 porción de pollo",
+      "1 porción de pimienta",
+      "1 porción de agua",
+      "1 porción de arroz",
+      "1 porción de sal",
+      "1 porción de cebolla"
+    ],
+    "preparacion": "Prepara los ingredientes. Mezcla todo en un sartén o cacerola y cocina hasta que esté listo. Disfruta tu Pollo a la plancha.",
+    "tiempo": "57 min",
+    "dificultad": "media",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "resistencia_insulina"
+      ],
+      "alergias_comunes": [],
+      "tags_nutricionales": [
+        "alto_proteina"
+      ]
+    }
+  },
+  {
+    "id": 18,
+    "nombre": "Tinga de pollo",
+    "ingredientes": [
+      "ajo",
+      "pollo",
+      "pimienta",
+      "agua",
+      "sal",
+      "cebolla"
+    ],
+    "cantidades": [
+      "1 porción de ajo",
+      "1 porción de pollo",
+      "1 porción de pimienta",
+      "1 porción de agua",
+      "1 porción de sal",
+      "1 porción de cebolla"
+    ],
+    "preparacion": "Prepara los ingredientes. Mezcla todo en un sartén o cacerola y cocina hasta que esté listo. Disfruta tu Tinga de pollo.",
+    "tiempo": "52 min",
+    "dificultad": "media",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "resistencia_insulina"
+      ],
+      "alergias_comunes": [],
+      "tags_nutricionales": [
+        "alto_proteina"
+      ]
+    }
+  },
+  {
+    "id": 19,
+    "nombre": "Pollo con mole",
+    "ingredientes": [
+      "ajo",
+      "pollo",
+      "pimienta",
+      "agua",
+      "sal",
+      "cebolla"
+    ],
+    "cantidades": [
+      "1 porción de ajo",
+      "1 porción de pollo",
+      "1 porción de pimienta",
+      "1 porción de agua",
+      "1 porción de sal",
+      "1 porción de cebolla"
+    ],
+    "preparacion": "Prepara los ingredientes. Mezcla todo en un sartén o cacerola y cocina hasta que esté listo. Disfruta tu Pollo con mole.",
+    "tiempo": "19 min",
+    "dificultad": "media",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "diabetes",
+        "hipertension"
+      ],
+      "alergias_comunes": [],
+      "tags_nutricionales": [
+        "alto_proteina"
+      ]
+    }
+  },
+  {
+    "id": 20,
+    "nombre": "Fajitas de pollo",
+    "ingredientes": [
+      "ajo",
+      "pollo",
+      "pimienta",
+      "agua",
+      "arroz",
+      "sal",
+      "cebolla"
+    ],
+    "cantidades": [
+      "1 porción de ajo",
+      "1 porción de pollo",
+      "1 porción de pimienta",
+      "1 porción de agua",
+      "1 porción de arroz",
+      "1 porción de sal",
+      "1 porción de cebolla"
+    ],
+    "preparacion": "Prepara los ingredientes. Mezcla todo en un sartén o cacerola y cocina hasta que esté listo. Disfruta tu Fajitas de pollo.",
+    "tiempo": "60 min",
+    "dificultad": "fácil",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "celiaquia",
+        "resistencia_insulina"
+      ],
+      "alergias_comunes": [],
+      "tags_nutricionales": [
+        "alto_proteina"
+      ]
+    }
+  },
+  {
+    "id": 21,
+    "nombre": "Caldo de pollo",
+    "ingredientes": [
+      "ajo",
+      "pollo",
+      "pimienta",
+      "agua",
+      "sal",
+      "cebolla"
+    ],
+    "cantidades": [
+      "1 porción de ajo",
+      "1 porción de pollo",
+      "1 porción de pimienta",
+      "1 porción de agua",
+      "1 porción de sal",
+      "1 porción de cebolla"
+    ],
+    "preparacion": "Prepara los ingredientes. Mezcla todo en un sartén o cacerola y cocina hasta que esté listo. Disfruta tu Caldo de pollo.",
+    "tiempo": "48 min",
+    "dificultad": "fácil",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "celiaquia",
+        "resistencia_insulina"
+      ],
+      "alergias_comunes": [],
+      "tags_nutricionales": [
+        "alto_proteina"
+      ]
+    }
+  },
+  {
+    "id": 22,
+    "nombre": "Pollo al chipotle",
+    "ingredientes": [
+      "ajo",
+      "pollo",
+      "pimienta",
+      "agua",
+      "sal",
+      "cebolla"
+    ],
+    "cantidades": [
+      "1 porción de ajo",
+      "1 porción de pollo",
+      "1 porción de pimienta",
+      "1 porción de agua",
+      "1 porción de sal",
+      "1 porción de cebolla"
+    ],
+    "preparacion": "Prepara los ingredientes. Mezcla todo en un sartén o cacerola y cocina hasta que esté listo. Disfruta tu Pollo al chipotle.",
+    "tiempo": "53 min",
+    "dificultad": "fácil",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "diabetes",
+        "hipertension"
+      ],
+      "alergias_comunes": [],
+      "tags_nutricionales": [
+        "alto_proteina"
+      ]
+    }
+  },
+  {
+    "id": 23,
+    "nombre": "Enchiladas suizas",
+    "ingredientes": [
+      "ajo",
+      "pollo",
+      "pimienta",
+      "agua",
+      "arroz",
+      "sal",
+      "cebolla"
+    ],
+    "cantidades": [
+      "1 porción de ajo",
+      "1 porción de pollo",
+      "1 porción de pimienta",
+      "1 porción de agua",
+      "1 porción de arroz",
+      "1 porción de sal",
+      "1 porción de cebolla"
+    ],
+    "preparacion": "Prepara los ingredientes. Mezcla todo en un sartén o cacerola y cocina hasta que esté listo. Disfruta tu Enchiladas suizas.",
+    "tiempo": "21 min",
+    "dificultad": "fácil",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "resistencia_insulina"
+      ],
+      "alergias_comunes": [],
+      "tags_nutricionales": [
+        "alto_proteina"
+      ]
+    }
+  },
+  {
+    "id": 24,
+    "nombre": "Tacos dorados de pollo",
+    "ingredientes": [
+      "ajo",
+      "pollo",
+      "pimienta",
+      "agua",
+      "sal",
+      "cebolla"
+    ],
+    "cantidades": [
+      "1 porción de ajo",
+      "1 porción de pollo",
+      "1 porción de pimienta",
+      "1 porción de agua",
+      "1 porción de sal",
+      "1 porción de cebolla"
+    ],
+    "preparacion": "Prepara los ingredientes. Mezcla todo en un sartén o cacerola y cocina hasta que esté listo. Disfruta tu Tacos dorados de pollo.",
+    "tiempo": "22 min",
+    "dificultad": "media",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "celiaquia",
+        "resistencia_insulina"
+      ],
+      "alergias_comunes": [],
+      "tags_nutricionales": [
+        "alto_proteina"
+      ]
+    }
+  },
+  {
+    "id": 25,
+    "nombre": "Ensalada de pollo",
+    "ingredientes": [
+      "ajo",
+      "pollo",
+      "pimienta",
+      "agua",
+      "sal",
+      "cebolla"
+    ],
+    "cantidades": [
+      "1 porción de ajo",
+      "1 porción de pollo",
+      "1 porción de pimienta",
+      "1 porción de agua",
+      "1 porción de sal",
+      "1 porción de cebolla"
+    ],
+    "preparacion": "Prepara los ingredientes. Mezcla todo en un sartén o cacerola y cocina hasta que esté listo. Disfruta tu Ensalada de pollo.",
+    "tiempo": "30 min",
+    "dificultad": "fácil",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "hipertension"
+      ],
+      "alergias_comunes": [],
+      "tags_nutricionales": [
+        "alto_proteina"
+      ]
+    }
+  },
+  {
+    "id": 26,
+    "nombre": "Pollo al horno con papas",
+    "ingredientes": [
+      "ajo",
+      "pollo",
+      "pimienta",
+      "agua",
+      "arroz",
+      "sal",
+      "cebolla"
+    ],
+    "cantidades": [
+      "1 porción de ajo",
+      "1 porción de pollo",
+      "1 porción de pimienta",
+      "1 porción de agua",
+      "1 porción de arroz",
+      "1 porción de sal",
+      "1 porción de cebolla"
+    ],
+    "preparacion": "Prepara los ingredientes. Mezcla todo en un sartén o cacerola y cocina hasta que esté listo. Disfruta tu Pollo al horno con papas.",
+    "tiempo": "19 min",
+    "dificultad": "fácil",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "resistencia_insulina"
+      ],
+      "alergias_comunes": [],
+      "tags_nutricionales": [
+        "alto_proteina"
+      ]
+    }
+  },
+  {
+    "id": 27,
+    "nombre": "Pollo estilo ChefMind 10",
+    "ingredientes": [
+      "ajo",
+      "pollo",
+      "pimienta",
+      "agua",
+      "sal",
+      "cebolla"
+    ],
+    "cantidades": [
+      "1 porción de ajo",
+      "1 porción de pollo",
+      "1 porción de pimienta",
+      "1 porción de agua",
+      "1 porción de sal",
+      "1 porción de cebolla"
+    ],
+    "preparacion": "Prepara los ingredientes. Mezcla todo en un sartén o cacerola y cocina hasta que esté listo. Disfruta tu Pollo estilo ChefMind 10.",
+    "tiempo": "24 min",
+    "dificultad": "media",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "resistencia_insulina"
+      ],
+      "alergias_comunes": [],
+      "tags_nutricionales": [
+        "alto_proteina"
+      ]
+    }
+  },
+  {
+    "id": 28,
+    "nombre": "Pollo estilo ChefMind 11",
+    "ingredientes": [
+      "ajo",
+      "pollo",
+      "pimienta",
+      "agua",
+      "sal",
+      "cebolla"
+    ],
+    "cantidades": [
+      "1 porción de ajo",
+      "1 porción de pollo",
+      "1 porción de pimienta",
+      "1 porción de agua",
+      "1 porción de sal",
+      "1 porción de cebolla"
+    ],
+    "preparacion": "Prepara los ingredientes. Mezcla todo en un sartén o cacerola y cocina hasta que esté listo. Disfruta tu Pollo estilo ChefMind 11.",
+    "tiempo": "52 min",
+    "dificultad": "media",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "diabetes",
+        "hipertension"
+      ],
+      "alergias_comunes": [],
+      "tags_nutricionales": [
+        "alto_proteina"
+      ]
+    }
+  },
+  {
+    "id": 29,
+    "nombre": "Pollo estilo ChefMind 12",
+    "ingredientes": [
+      "ajo",
+      "pollo",
+      "pimienta",
+      "agua",
+      "arroz",
+      "sal",
+      "cebolla"
+    ],
+    "cantidades": [
+      "1 porción de ajo",
+      "1 porción de pollo",
+      "1 porción de pimienta",
+      "1 porción de agua",
+      "1 porción de arroz",
+      "1 porción de sal",
+      "1 porción de cebolla"
+    ],
+    "preparacion": "Prepara los ingredientes. Mezcla todo en un sartén o cacerola y cocina hasta que esté listo. Disfruta tu Pollo estilo ChefMind 12.",
+    "tiempo": "25 min",
+    "dificultad": "media",
+    "metadata_salud": {
+      "apto_para_condiciones": [],
+      "alergias_comunes": [],
+      "tags_nutricionales": [
+        "alto_proteina"
+      ]
+    }
+  },
+  {
+    "id": 30,
+    "nombre": "Pollo estilo ChefMind 13",
+    "ingredientes": [
+      "ajo",
+      "pollo",
+      "pimienta",
+      "agua",
+      "sal",
+      "cebolla"
+    ],
+    "cantidades": [
+      "1 porción de ajo",
+      "1 porción de pollo",
+      "1 porción de pimienta",
+      "1 porción de agua",
+      "1 porción de sal",
+      "1 porción de cebolla"
+    ],
+    "preparacion": "Prepara los ingredientes. Mezcla todo en un sartén o cacerola y cocina hasta que esté listo. Disfruta tu Pollo estilo ChefMind 13.",
+    "tiempo": "47 min",
+    "dificultad": "media",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "resistencia_insulina"
+      ],
+      "alergias_comunes": [],
+      "tags_nutricionales": [
+        "alto_proteina"
+      ]
+    }
+  },
+  {
+    "id": 31,
+    "nombre": "Pollo estilo ChefMind 14",
+    "ingredientes": [
+      "ajo",
+      "pollo",
+      "pimienta",
+      "agua",
+      "sal",
+      "cebolla"
+    ],
+    "cantidades": [
+      "1 porción de ajo",
+      "1 porción de pollo",
+      "1 porción de pimienta",
+      "1 porción de agua",
+      "1 porción de sal",
+      "1 porción de cebolla"
+    ],
+    "preparacion": "Prepara los ingredientes. Mezcla todo en un sartén o cacerola y cocina hasta que esté listo. Disfruta tu Pollo estilo ChefMind 14.",
+    "tiempo": "57 min",
+    "dificultad": "media",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "diabetes",
+        "hipertension"
+      ],
+      "alergias_comunes": [],
+      "tags_nutricionales": [
+        "alto_proteina"
+      ]
+    }
+  },
+  {
+    "id": 32,
+    "nombre": "Pollo estilo ChefMind 15",
+    "ingredientes": [
+      "ajo",
+      "pollo",
+      "pimienta",
+      "agua",
+      "arroz",
+      "sal",
+      "cebolla"
+    ],
+    "cantidades": [
+      "1 porción de ajo",
+      "1 porción de pollo",
+      "1 porción de pimienta",
+      "1 porción de agua",
+      "1 porción de arroz",
+      "1 porción de sal",
+      "1 porción de cebolla"
+    ],
+    "preparacion": "Prepara los ingredientes. Mezcla todo en un sartén o cacerola y cocina hasta que esté listo. Disfruta tu Pollo estilo ChefMind 15.",
+    "tiempo": "36 min",
+    "dificultad": "fácil",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "resistencia_insulina"
+      ],
+      "alergias_comunes": [],
+      "tags_nutricionales": [
+        "alto_proteina"
+      ]
+    }
+  },
+  {
+    "id": 33,
+    "nombre": "Bistec a la mexicana",
+    "ingredientes": [
+      "aceite",
+      "ajo",
+      "pimienta",
+      "papa",
+      "res",
+      "sal",
+      "cebolla"
+    ],
+    "cantidades": [
+      "1 porción de aceite",
+      "1 porción de ajo",
+      "1 porción de pimienta",
+      "1 porción de papa",
+      "1 porción de res",
+      "1 porción de sal",
+      "1 porción de cebolla"
+    ],
+    "preparacion": "Prepara los ingredientes. Mezcla todo en un sartén o cacerola y cocina hasta que esté listo. Disfruta tu Bistec a la mexicana.",
+    "tiempo": "29 min",
+    "dificultad": "media",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "colesterol_alto"
+      ],
+      "alergias_comunes": [],
+      "tags_nutricionales": [
+        "alto_proteina"
+      ]
+    }
+  },
+  {
+    "id": 34,
+    "nombre": "Albóndigas al chipotle",
+    "ingredientes": [
+      "aceite",
+      "ajo",
+      "pimienta",
+      "res",
+      "sal",
+      "cebolla"
+    ],
+    "cantidades": [
+      "1 porción de aceite",
+      "1 porción de ajo",
+      "1 porción de pimienta",
+      "1 porción de res",
+      "1 porción de sal",
+      "1 porción de cebolla"
+    ],
+    "preparacion": "Prepara los ingredientes. Mezcla todo en un sartén o cacerola y cocina hasta que esté listo. Disfruta tu Albóndigas al chipotle.",
+    "tiempo": "32 min",
+    "dificultad": "media",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "hipertension"
+      ],
+      "alergias_comunes": [],
+      "tags_nutricionales": [
+        "alto_proteina"
+      ]
+    }
+  },
+  {
+    "id": 35,
+    "nombre": "Picadillo",
+    "ingredientes": [
+      "aceite",
+      "ajo",
+      "pimienta",
+      "papa",
+      "res",
+      "sal",
+      "cebolla"
+    ],
+    "cantidades": [
+      "1 porción de aceite",
+      "1 porción de ajo",
+      "1 porción de pimienta",
+      "1 porción de papa",
+      "1 porción de res",
+      "1 porción de sal",
+      "1 porción de cebolla"
+    ],
+    "preparacion": "Prepara los ingredientes. Mezcla todo en un sartén o cacerola y cocina hasta que esté listo. Disfruta tu Picadillo.",
+    "tiempo": "24 min",
+    "dificultad": "media",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "resistencia_insulina"
+      ],
+      "alergias_comunes": [],
+      "tags_nutricionales": [
+        "alto_proteina"
+      ]
+    }
+  },
+  {
+    "id": 36,
+    "nombre": "Fajitas de res",
+    "ingredientes": [
+      "aceite",
+      "ajo",
+      "pimienta",
+      "res",
+      "sal",
+      "cebolla"
+    ],
+    "cantidades": [
+      "1 porción de aceite",
+      "1 porción de ajo",
+      "1 porción de pimienta",
+      "1 porción de res",
+      "1 porción de sal",
+      "1 porción de cebolla"
+    ],
+    "preparacion": "Prepara los ingredientes. Mezcla todo en un sartén o cacerola y cocina hasta que esté listo. Disfruta tu Fajitas de res.",
+    "tiempo": "23 min",
+    "dificultad": "fácil",
+    "metadata_salud": {
+      "apto_para_condiciones": [],
+      "alergias_comunes": [],
+      "tags_nutricionales": [
+        "alto_proteina"
+      ]
+    }
+  },
+  {
+    "id": 37,
+    "nombre": "Carne en su jugo",
+    "ingredientes": [
+      "aceite",
+      "ajo",
+      "pimienta",
+      "papa",
+      "res",
+      "sal",
+      "cebolla"
+    ],
+    "cantidades": [
+      "1 porción de aceite",
+      "1 porción de ajo",
+      "1 porción de pimienta",
+      "1 porción de papa",
+      "1 porción de res",
+      "1 porción de sal",
+      "1 porción de cebolla"
+    ],
+    "preparacion": "Prepara los ingredientes. Mezcla todo en un sartén o cacerola y cocina hasta que esté listo. Disfruta tu Carne en su jugo.",
+    "tiempo": "52 min",
+    "dificultad": "media",
+    "metadata_salud": {
+      "apto_para_condiciones": [],
+      "alergias_comunes": [],
+      "tags_nutricionales": [
+        "alto_proteina"
+      ]
+    }
+  },
+  {
+    "id": 38,
+    "nombre": "Tacos de asada",
+    "ingredientes": [
+      "aceite",
+      "ajo",
+      "pimienta",
+      "res",
+      "sal",
+      "cebolla"
+    ],
+    "cantidades": [
+      "1 porción de aceite",
+      "1 porción de ajo",
+      "1 porción de pimienta",
+      "1 porción de res",
+      "1 porción de sal",
+      "1 porción de cebolla"
+    ],
+    "preparacion": "Prepara los ingredientes. Mezcla todo en un sartén o cacerola y cocina hasta que esté listo. Disfruta tu Tacos de asada.",
+    "tiempo": "15 min",
+    "dificultad": "media",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "celiaquia"
+      ],
+      "alergias_comunes": [],
+      "tags_nutricionales": [
+        "alto_proteina"
+      ]
+    }
+  },
+  {
+    "id": 39,
+    "nombre": "Salpicón de res",
+    "ingredientes": [
+      "aceite",
+      "ajo",
+      "pimienta",
+      "papa",
+      "res",
+      "sal",
+      "cebolla"
+    ],
+    "cantidades": [
+      "1 porción de aceite",
+      "1 porción de ajo",
+      "1 porción de pimienta",
+      "1 porción de papa",
+      "1 porción de res",
+      "1 porción de sal",
+      "1 porción de cebolla"
+    ],
+    "preparacion": "Prepara los ingredientes. Mezcla todo en un sartén o cacerola y cocina hasta que esté listo. Disfruta tu Salpicón de res.",
+    "tiempo": "27 min",
+    "dificultad": "media",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "colesterol_alto"
+      ],
+      "alergias_comunes": [],
+      "tags_nutricionales": [
+        "alto_proteina"
+      ]
+    }
+  },
+  {
+    "id": 40,
+    "nombre": "Caldo de res",
+    "ingredientes": [
+      "aceite",
+      "ajo",
+      "pimienta",
+      "res",
+      "sal",
+      "cebolla"
+    ],
+    "cantidades": [
+      "1 porción de aceite",
+      "1 porción de ajo",
+      "1 porción de pimienta",
+      "1 porción de res",
+      "1 porción de sal",
+      "1 porción de cebolla"
+    ],
+    "preparacion": "Prepara los ingredientes. Mezcla todo en un sartén o cacerola y cocina hasta que esté listo. Disfruta tu Caldo de res.",
+    "tiempo": "50 min",
+    "dificultad": "fácil",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "colesterol_alto"
+      ],
+      "alergias_comunes": [],
+      "tags_nutricionales": [
+        "alto_proteina"
+      ]
+    }
+  },
+  {
+    "id": 41,
+    "nombre": "Milanesa de res",
+    "ingredientes": [
+      "aceite",
+      "ajo",
+      "pimienta",
+      "papa",
+      "res",
+      "sal",
+      "cebolla"
+    ],
+    "cantidades": [
+      "1 porción de aceite",
+      "1 porción de ajo",
+      "1 porción de pimienta",
+      "1 porción de papa",
+      "1 porción de res",
+      "1 porción de sal",
+      "1 porción de cebolla"
+    ],
+    "preparacion": "Prepara los ingredientes. Mezcla todo en un sartén o cacerola y cocina hasta que esté listo. Disfruta tu Milanesa de res.",
+    "tiempo": "35 min",
+    "dificultad": "media",
+    "metadata_salud": {
+      "apto_para_condiciones": [],
+      "alergias_comunes": [],
+      "tags_nutricionales": [
+        "alto_proteina"
+      ]
+    }
+  },
+  {
+    "id": 42,
+    "nombre": "Alambre de res",
+    "ingredientes": [
+      "aceite",
+      "ajo",
+      "pimienta",
+      "res",
+      "sal",
+      "cebolla"
+    ],
+    "cantidades": [
+      "1 porción de aceite",
+      "1 porción de ajo",
+      "1 porción de pimienta",
+      "1 porción de res",
+      "1 porción de sal",
+      "1 porción de cebolla"
+    ],
+    "preparacion": "Prepara los ingredientes. Mezcla todo en un sartén o cacerola y cocina hasta que esté listo. Disfruta tu Alambre de res.",
+    "tiempo": "54 min",
+    "dificultad": "fácil",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "hipertension"
+      ],
+      "alergias_comunes": [],
+      "tags_nutricionales": [
+        "alto_proteina"
+      ]
+    }
+  },
+  {
+    "id": 43,
+    "nombre": "Res estilo ChefMind 10",
+    "ingredientes": [
+      "aceite",
+      "ajo",
+      "pimienta",
+      "papa",
+      "res",
+      "sal",
+      "cebolla"
+    ],
+    "cantidades": [
+      "1 porción de aceite",
+      "1 porción de ajo",
+      "1 porción de pimienta",
+      "1 porción de papa",
+      "1 porción de res",
+      "1 porción de sal",
+      "1 porción de cebolla"
+    ],
+    "preparacion": "Prepara los ingredientes. Mezcla todo en un sartén o cacerola y cocina hasta que esté listo. Disfruta tu Res estilo ChefMind 10.",
+    "tiempo": "27 min",
+    "dificultad": "media",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "celiaquia",
+        "resistencia_insulina"
+      ],
+      "alergias_comunes": [],
+      "tags_nutricionales": [
+        "alto_proteina"
+      ]
+    }
+  },
+  {
+    "id": 44,
+    "nombre": "Res estilo ChefMind 11",
+    "ingredientes": [
+      "aceite",
+      "ajo",
+      "pimienta",
+      "res",
+      "sal",
+      "cebolla"
+    ],
+    "cantidades": [
+      "1 porción de aceite",
+      "1 porción de ajo",
+      "1 porción de pimienta",
+      "1 porción de res",
+      "1 porción de sal",
+      "1 porción de cebolla"
+    ],
+    "preparacion": "Prepara los ingredientes. Mezcla todo en un sartén o cacerola y cocina hasta que esté listo. Disfruta tu Res estilo ChefMind 11.",
+    "tiempo": "25 min",
+    "dificultad": "media",
+    "metadata_salud": {
+      "apto_para_condiciones": [],
+      "alergias_comunes": [],
+      "tags_nutricionales": [
+        "alto_proteina"
+      ]
+    }
+  },
+  {
+    "id": 45,
+    "nombre": "Res estilo ChefMind 12",
+    "ingredientes": [
+      "aceite",
+      "ajo",
+      "pimienta",
+      "papa",
+      "res",
+      "sal",
+      "cebolla"
+    ],
+    "cantidades": [
+      "1 porción de aceite",
+      "1 porción de ajo",
+      "1 porción de pimienta",
+      "1 porción de papa",
+      "1 porción de res",
+      "1 porción de sal",
+      "1 porción de cebolla"
+    ],
+    "preparacion": "Prepara los ingredientes. Mezcla todo en un sartén o cacerola y cocina hasta que esté listo. Disfruta tu Res estilo ChefMind 12.",
+    "tiempo": "49 min",
+    "dificultad": "media",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "diabetes"
+      ],
+      "alergias_comunes": [],
+      "tags_nutricionales": [
+        "alto_proteina"
+      ]
+    }
+  },
+  {
+    "id": 46,
+    "nombre": "Res estilo ChefMind 13",
+    "ingredientes": [
+      "aceite",
+      "ajo",
+      "pimienta",
+      "res",
+      "sal",
+      "cebolla"
+    ],
+    "cantidades": [
+      "1 porción de aceite",
+      "1 porción de ajo",
+      "1 porción de pimienta",
+      "1 porción de res",
+      "1 porción de sal",
+      "1 porción de cebolla"
+    ],
+    "preparacion": "Prepara los ingredientes. Mezcla todo en un sartén o cacerola y cocina hasta que esté listo. Disfruta tu Res estilo ChefMind 13.",
+    "tiempo": "22 min",
+    "dificultad": "media",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "hipertension"
+      ],
+      "alergias_comunes": [],
+      "tags_nutricionales": [
+        "alto_proteina"
+      ]
+    }
+  },
+  {
+    "id": 47,
+    "nombre": "Res estilo ChefMind 14",
+    "ingredientes": [
+      "aceite",
+      "ajo",
+      "pimienta",
+      "papa",
+      "res",
+      "sal",
+      "cebolla"
+    ],
+    "cantidades": [
+      "1 porción de aceite",
+      "1 porción de ajo",
+      "1 porción de pimienta",
+      "1 porción de papa",
+      "1 porción de res",
+      "1 porción de sal",
+      "1 porción de cebolla"
+    ],
+    "preparacion": "Prepara los ingredientes. Mezcla todo en un sartén o cacerola y cocina hasta que esté listo. Disfruta tu Res estilo ChefMind 14.",
+    "tiempo": "16 min",
+    "dificultad": "fácil",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "diabetes"
+      ],
+      "alergias_comunes": [],
+      "tags_nutricionales": [
+        "alto_proteina"
+      ]
+    }
+  },
+  {
+    "id": 48,
+    "nombre": "Res estilo ChefMind 15",
+    "ingredientes": [
+      "aceite",
+      "ajo",
+      "pimienta",
+      "res",
+      "sal",
+      "cebolla"
+    ],
+    "cantidades": [
+      "1 porción de aceite",
+      "1 porción de ajo",
+      "1 porción de pimienta",
+      "1 porción de res",
+      "1 porción de sal",
+      "1 porción de cebolla"
+    ],
+    "preparacion": "Prepara los ingredientes. Mezcla todo en un sartén o cacerola y cocina hasta que esté listo. Disfruta tu Res estilo ChefMind 15.",
+    "tiempo": "26 min",
+    "dificultad": "media",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "colesterol_alto"
+      ],
+      "alergias_comunes": [],
+      "tags_nutricionales": [
+        "alto_proteina"
+      ]
+    }
+  },
+  {
+    "id": 49,
+    "nombre": "Espagueti rojo",
+    "ingredientes": [
+      "queso",
+      "crema",
+      "pasta",
+      "agua",
+      "tomate",
+      "sal"
+    ],
+    "cantidades": [
+      "1 porción de queso",
+      "1 porción de crema",
+      "1 porción de pasta",
+      "1 porción de agua",
+      "1 porción de tomate",
+      "1 porción de sal"
+    ],
+    "preparacion": "Prepara los ingredientes. Mezcla todo en un sartén o cacerola y cocina hasta que esté listo. Disfruta tu Espagueti rojo.",
+    "tiempo": "47 min",
+    "dificultad": "media",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "resistencia_insulina"
+      ],
+      "alergias_comunes": [
+        "gluten"
+      ],
+      "tags_nutricionales": [
+        "alto_fibra"
+      ]
+    }
+  },
+  {
+    "id": 50,
+    "nombre": "Espagueti a la crema",
+    "ingredientes": [
+      "queso",
+      "pasta",
+      "agua",
+      "tomate",
+      "sal"
+    ],
+    "cantidades": [
+      "1 porción de queso",
+      "1 porción de pasta",
+      "1 porción de agua",
+      "1 porción de tomate",
+      "1 porción de sal"
+    ],
+    "preparacion": "Prepara los ingredientes. Mezcla todo en un sartén o cacerola y cocina hasta que esté listo. Disfruta tu Espagueti a la crema.",
+    "tiempo": "60 min",
+    "dificultad": "fácil",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "celiaquia",
+        "resistencia_insulina"
+      ],
+      "alergias_comunes": [
+        "gluten"
+      ],
+      "tags_nutricionales": [
+        "alto_fibra"
+      ]
+    }
+  },
+  {
+    "id": 51,
+    "nombre": "Coditos con jamón",
+    "ingredientes": [
+      "queso",
+      "crema",
+      "pasta",
+      "agua",
+      "tomate",
+      "sal"
+    ],
+    "cantidades": [
+      "1 porción de queso",
+      "1 porción de crema",
+      "1 porción de pasta",
+      "1 porción de agua",
+      "1 porción de tomate",
+      "1 porción de sal"
+    ],
+    "preparacion": "Prepara los ingredientes. Mezcla todo en un sartén o cacerola y cocina hasta que esté listo. Disfruta tu Coditos con jamón.",
+    "tiempo": "24 min",
+    "dificultad": "media",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "diabetes"
+      ],
+      "alergias_comunes": [
+        "gluten"
+      ],
+      "tags_nutricionales": [
+        "alto_fibra"
+      ]
+    }
+  },
+  {
+    "id": 52,
+    "nombre": "Sopa de fideos",
+    "ingredientes": [
+      "queso",
+      "pasta",
+      "agua",
+      "tomate",
+      "sal"
+    ],
+    "cantidades": [
+      "1 porción de queso",
+      "1 porción de pasta",
+      "1 porción de agua",
+      "1 porción de tomate",
+      "1 porción de sal"
+    ],
+    "preparacion": "Prepara los ingredientes. Mezcla todo en un sartén o cacerola y cocina hasta que esté listo. Disfruta tu Sopa de fideos.",
+    "tiempo": "53 min",
+    "dificultad": "fácil",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "celiaquia",
+        "resistencia_insulina"
+      ],
+      "alergias_comunes": [
+        "gluten"
+      ],
+      "tags_nutricionales": [
+        "alto_fibra"
+      ]
+    }
+  },
+  {
+    "id": 53,
+    "nombre": "Macarrones con queso",
+    "ingredientes": [
+      "queso",
+      "crema",
+      "pasta",
+      "agua",
+      "tomate",
+      "sal"
+    ],
+    "cantidades": [
+      "1 porción de queso",
+      "1 porción de crema",
+      "1 porción de pasta",
+      "1 porción de agua",
+      "1 porción de tomate",
+      "1 porción de sal"
+    ],
+    "preparacion": "Prepara los ingredientes. Mezcla todo en un sartén o cacerola y cocina hasta que esté listo. Disfruta tu Macarrones con queso.",
+    "tiempo": "34 min",
+    "dificultad": "media",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "resistencia_insulina"
+      ],
+      "alergias_comunes": [
+        "gluten"
+      ],
+      "tags_nutricionales": [
+        "alto_fibra"
+      ]
+    }
+  },
+  {
+    "id": 54,
+    "nombre": "Pasta al pesto",
+    "ingredientes": [
+      "queso",
+      "pasta",
+      "agua",
+      "tomate",
+      "sal"
+    ],
+    "cantidades": [
+      "1 porción de queso",
+      "1 porción de pasta",
+      "1 porción de agua",
+      "1 porción de tomate",
+      "1 porción de sal"
+    ],
+    "preparacion": "Prepara los ingredientes. Mezcla todo en un sartén o cacerola y cocina hasta que esté listo. Disfruta tu Pasta al pesto.",
+    "tiempo": "20 min",
+    "dificultad": "media",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "diabetes",
+        "hipertension"
+      ],
+      "alergias_comunes": [
+        "gluten"
+      ],
+      "tags_nutricionales": [
+        "alto_fibra"
+      ]
+    }
+  },
+  {
+    "id": 55,
+    "nombre": "Fusilli con vegetales",
+    "ingredientes": [
+      "queso",
+      "crema",
+      "pasta",
+      "agua",
+      "tomate",
+      "sal"
+    ],
+    "cantidades": [
+      "1 porción de queso",
+      "1 porción de crema",
+      "1 porción de pasta",
+      "1 porción de agua",
+      "1 porción de tomate",
+      "1 porción de sal"
+    ],
+    "preparacion": "Prepara los ingredientes. Mezcla todo en un sartén o cacerola y cocina hasta que esté listo. Disfruta tu Fusilli con vegetales.",
+    "tiempo": "45 min",
+    "dificultad": "fácil",
+    "metadata_salud": {
+      "apto_para_condiciones": [],
+      "alergias_comunes": [
+        "gluten"
+      ],
+      "tags_nutricionales": [
+        "alto_fibra"
+      ]
+    }
+  },
+  {
+    "id": 56,
+    "nombre": "Espagueti verde",
+    "ingredientes": [
+      "queso",
+      "pasta",
+      "agua",
+      "tomate",
+      "sal"
+    ],
+    "cantidades": [
+      "1 porción de queso",
+      "1 porción de pasta",
+      "1 porción de agua",
+      "1 porción de tomate",
+      "1 porción de sal"
+    ],
+    "preparacion": "Prepara los ingredientes. Mezcla todo en un sartén o cacerola y cocina hasta que esté listo. Disfruta tu Espagueti verde.",
+    "tiempo": "33 min",
+    "dificultad": "media",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "celiaquia"
+      ],
+      "alergias_comunes": [
+        "gluten"
+      ],
+      "tags_nutricionales": [
+        "alto_fibra"
+      ]
+    }
+  },
+  {
+    "id": 57,
+    "nombre": "Pasta con atún",
+    "ingredientes": [
+      "queso",
+      "crema",
+      "pasta",
+      "agua",
+      "tomate",
+      "sal"
+    ],
+    "cantidades": [
+      "1 porción de queso",
+      "1 porción de crema",
+      "1 porción de pasta",
+      "1 porción de agua",
+      "1 porción de tomate",
+      "1 porción de sal"
+    ],
+    "preparacion": "Prepara los ingredientes. Mezcla todo en un sartén o cacerola y cocina hasta que esté listo. Disfruta tu Pasta con atún.",
+    "tiempo": "15 min",
+    "dificultad": "fácil",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "hipertension"
+      ],
+      "alergias_comunes": [
+        "gluten"
+      ],
+      "tags_nutricionales": [
+        "alto_fibra"
+      ]
+    }
+  },
+  {
+    "id": 58,
+    "nombre": "Lasaña",
+    "ingredientes": [
+      "queso",
+      "pasta",
+      "agua",
+      "tomate",
+      "sal"
+    ],
+    "cantidades": [
+      "1 porción de queso",
+      "1 porción de pasta",
+      "1 porción de agua",
+      "1 porción de tomate",
+      "1 porción de sal"
+    ],
+    "preparacion": "Prepara los ingredientes. Mezcla todo en un sartén o cacerola y cocina hasta que esté listo. Disfruta tu Lasaña.",
+    "tiempo": "27 min",
+    "dificultad": "media",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "diabetes",
+        "hipertension"
+      ],
+      "alergias_comunes": [
+        "gluten"
+      ],
+      "tags_nutricionales": [
+        "alto_fibra"
+      ]
+    }
+  },
+  {
+    "id": 59,
+    "nombre": "Pasta estilo ChefMind 10",
+    "ingredientes": [
+      "queso",
+      "crema",
+      "pasta",
+      "agua",
+      "tomate",
+      "sal"
+    ],
+    "cantidades": [
+      "1 porción de queso",
+      "1 porción de crema",
+      "1 porción de pasta",
+      "1 porción de agua",
+      "1 porción de tomate",
+      "1 porción de sal"
+    ],
+    "preparacion": "Prepara los ingredientes. Mezcla todo en un sartén o cacerola y cocina hasta que esté listo. Disfruta tu Pasta estilo ChefMind 10.",
+    "tiempo": "26 min",
+    "dificultad": "media",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "celiaquia"
+      ],
+      "alergias_comunes": [
+        "gluten"
+      ],
+      "tags_nutricionales": [
+        "alto_fibra"
+      ]
+    }
+  },
+  {
+    "id": 60,
+    "nombre": "Pasta estilo ChefMind 11",
+    "ingredientes": [
+      "queso",
+      "pasta",
+      "agua",
+      "tomate",
+      "sal"
+    ],
+    "cantidades": [
+      "1 porción de queso",
+      "1 porción de pasta",
+      "1 porción de agua",
+      "1 porción de tomate",
+      "1 porción de sal"
+    ],
+    "preparacion": "Prepara los ingredientes. Mezcla todo en un sartén o cacerola y cocina hasta que esté listo. Disfruta tu Pasta estilo ChefMind 11.",
+    "tiempo": "46 min",
+    "dificultad": "fácil",
+    "metadata_salud": {
+      "apto_para_condiciones": [],
+      "alergias_comunes": [
+        "gluten"
+      ],
+      "tags_nutricionales": [
+        "alto_fibra"
+      ]
+    }
+  },
+  {
+    "id": 61,
+    "nombre": "Pasta estilo ChefMind 12",
+    "ingredientes": [
+      "queso",
+      "crema",
+      "pasta",
+      "agua",
+      "tomate",
+      "sal"
+    ],
+    "cantidades": [
+      "1 porción de queso",
+      "1 porción de crema",
+      "1 porción de pasta",
+      "1 porción de agua",
+      "1 porción de tomate",
+      "1 porción de sal"
+    ],
+    "preparacion": "Prepara los ingredientes. Mezcla todo en un sartén o cacerola y cocina hasta que esté listo. Disfruta tu Pasta estilo ChefMind 12.",
+    "tiempo": "59 min",
+    "dificultad": "media",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "celiaquia"
+      ],
+      "alergias_comunes": [
+        "gluten"
+      ],
+      "tags_nutricionales": [
+        "alto_fibra"
+      ]
+    }
+  },
+  {
+    "id": 62,
+    "nombre": "Pasta estilo ChefMind 13",
+    "ingredientes": [
+      "queso",
+      "pasta",
+      "agua",
+      "tomate",
+      "sal"
+    ],
+    "cantidades": [
+      "1 porción de queso",
+      "1 porción de pasta",
+      "1 porción de agua",
+      "1 porción de tomate",
+      "1 porción de sal"
+    ],
+    "preparacion": "Prepara los ingredientes. Mezcla todo en un sartén o cacerola y cocina hasta que esté listo. Disfruta tu Pasta estilo ChefMind 13.",
+    "tiempo": "39 min",
+    "dificultad": "fácil",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "colesterol_alto"
+      ],
+      "alergias_comunes": [
+        "gluten"
+      ],
+      "tags_nutricionales": [
+        "alto_fibra"
+      ]
+    }
+  },
+  {
+    "id": 63,
+    "nombre": "Pasta estilo ChefMind 14",
+    "ingredientes": [
+      "queso",
+      "crema",
+      "pasta",
+      "agua",
+      "tomate",
+      "sal"
+    ],
+    "cantidades": [
+      "1 porción de queso",
+      "1 porción de crema",
+      "1 porción de pasta",
+      "1 porción de agua",
+      "1 porción de tomate",
+      "1 porción de sal"
+    ],
+    "preparacion": "Prepara los ingredientes. Mezcla todo en un sartén o cacerola y cocina hasta que esté listo. Disfruta tu Pasta estilo ChefMind 14.",
+    "tiempo": "38 min",
+    "dificultad": "fácil",
+    "metadata_salud": {
+      "apto_para_condiciones": [],
+      "alergias_comunes": [
+        "gluten"
+      ],
+      "tags_nutricionales": [
+        "alto_fibra"
+      ]
+    }
+  },
+  {
+    "id": 64,
+    "nombre": "Pasta estilo ChefMind 15",
+    "ingredientes": [
+      "queso",
+      "pasta",
+      "agua",
+      "tomate",
+      "sal"
+    ],
+    "cantidades": [
+      "1 porción de queso",
+      "1 porción de pasta",
+      "1 porción de agua",
+      "1 porción de tomate",
+      "1 porción de sal"
+    ],
+    "preparacion": "Prepara los ingredientes. Mezcla todo en un sartén o cacerola y cocina hasta que esté listo. Disfruta tu Pasta estilo ChefMind 15.",
+    "tiempo": "23 min",
+    "dificultad": "fácil",
+    "metadata_salud": {
+      "apto_para_condiciones": [],
+      "alergias_comunes": [
+        "gluten"
+      ],
+      "tags_nutricionales": [
+        "alto_fibra"
+      ]
+    }
+  },
+  {
+    "id": 65,
+    "nombre": "Ensalada mixta",
+    "ingredientes": [
+      "ajo",
+      "zanahoria",
+      "vegetales",
+      "aguacate",
+      "calabaza",
+      "sal",
+      "cebolla"
+    ],
+    "cantidades": [
+      "1 porción de ajo",
+      "1 porción de zanahoria",
+      "1 porción de vegetales",
+      "1 porción de aguacate",
+      "1 porción de calabaza",
+      "1 porción de sal",
+      "1 porción de cebolla"
+    ],
+    "preparacion": "Prepara los ingredientes. Mezcla todo en un sartén o cacerola y cocina hasta que esté listo. Disfruta tu Ensalada mixta.",
+    "tiempo": "15 min",
+    "dificultad": "media",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "celiaquia"
+      ],
+      "alergias_comunes": [],
+      "tags_nutricionales": [
+        "alto_fibra"
+      ]
+    }
+  },
+  {
+    "id": 66,
+    "nombre": "Calabacitas a la mexicana",
+    "ingredientes": [
+      "ajo",
+      "zanahoria",
+      "vegetales",
+      "calabaza",
+      "sal",
+      "cebolla"
+    ],
+    "cantidades": [
+      "1 porción de ajo",
+      "1 porción de zanahoria",
+      "1 porción de vegetales",
+      "1 porción de calabaza",
+      "1 porción de sal",
+      "1 porción de cebolla"
+    ],
+    "preparacion": "Prepara los ingredientes. Mezcla todo en un sartén o cacerola y cocina hasta que esté listo. Disfruta tu Calabacitas a la mexicana.",
+    "tiempo": "46 min",
+    "dificultad": "media",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "hipertension"
+      ],
+      "alergias_comunes": [],
+      "tags_nutricionales": [
+        "alto_fibra"
+      ]
+    }
+  },
+  {
+    "id": 67,
+    "nombre": "Chayotes rellenos",
+    "ingredientes": [
+      "ajo",
+      "zanahoria",
+      "vegetales",
+      "calabaza",
+      "sal",
+      "cebolla"
+    ],
+    "cantidades": [
+      "1 porción de ajo",
+      "1 porción de zanahoria",
+      "1 porción de vegetales",
+      "1 porción de calabaza",
+      "1 porción de sal",
+      "1 porción de cebolla"
+    ],
+    "preparacion": "Prepara los ingredientes. Mezcla todo en un sartén o cacerola y cocina hasta que esté listo. Disfruta tu Chayotes rellenos.",
+    "tiempo": "28 min",
+    "dificultad": "fácil",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "colesterol_alto"
+      ],
+      "alergias_comunes": [],
+      "tags_nutricionales": [
+        "alto_fibra"
+      ]
+    }
+  },
+  {
+    "id": 68,
+    "nombre": "Crema de zanahoria",
+    "ingredientes": [
+      "ajo",
+      "zanahoria",
+      "vegetales",
+      "calabaza",
+      "sal",
+      "cebolla"
+    ],
+    "cantidades": [
+      "1 porción de ajo",
+      "1 porción de zanahoria",
+      "1 porción de vegetales",
+      "1 porción de calabaza",
+      "1 porción de sal",
+      "1 porción de cebolla"
+    ],
+    "preparacion": "Prepara los ingredientes. Mezcla todo en un sartén o cacerola y cocina hasta que esté listo. Disfruta tu Crema de zanahoria.",
+    "tiempo": "57 min",
+    "dificultad": "media",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "celiaquia"
+      ],
+      "alergias_comunes": [],
+      "tags_nutricionales": [
+        "alto_fibra"
+      ]
+    }
+  },
+  {
+    "id": 69,
+    "nombre": "Sopa de verduras",
+    "ingredientes": [
+      "ajo",
+      "zanahoria",
+      "vegetales",
+      "aguacate",
+      "calabaza",
+      "sal",
+      "cebolla"
+    ],
+    "cantidades": [
+      "1 porción de ajo",
+      "1 porción de zanahoria",
+      "1 porción de vegetales",
+      "1 porción de aguacate",
+      "1 porción de calabaza",
+      "1 porción de sal",
+      "1 porción de cebolla"
+    ],
+    "preparacion": "Prepara los ingredientes. Mezcla todo en un sartén o cacerola y cocina hasta que esté listo. Disfruta tu Sopa de verduras.",
+    "tiempo": "31 min",
+    "dificultad": "media",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "colesterol_alto"
+      ],
+      "alergias_comunes": [],
+      "tags_nutricionales": [
+        "alto_fibra"
+      ]
+    }
+  },
+  {
+    "id": 70,
+    "nombre": "Nopales navegantes",
+    "ingredientes": [
+      "ajo",
+      "zanahoria",
+      "vegetales",
+      "calabaza",
+      "sal",
+      "cebolla"
+    ],
+    "cantidades": [
+      "1 porción de ajo",
+      "1 porción de zanahoria",
+      "1 porción de vegetales",
+      "1 porción de calabaza",
+      "1 porción de sal",
+      "1 porción de cebolla"
+    ],
+    "preparacion": "Prepara los ingredientes. Mezcla todo en un sartén o cacerola y cocina hasta que esté listo. Disfruta tu Nopales navegantes.",
+    "tiempo": "16 min",
+    "dificultad": "fácil",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "hipertension"
+      ],
+      "alergias_comunes": [],
+      "tags_nutricionales": [
+        "alto_fibra"
+      ]
+    }
+  },
+  {
+    "id": 71,
+    "nombre": "Ensalada de aguacate",
+    "ingredientes": [
+      "ajo",
+      "zanahoria",
+      "vegetales",
+      "calabaza",
+      "sal",
+      "cebolla"
+    ],
+    "cantidades": [
+      "1 porción de ajo",
+      "1 porción de zanahoria",
+      "1 porción de vegetales",
+      "1 porción de calabaza",
+      "1 porción de sal",
+      "1 porción de cebolla"
+    ],
+    "preparacion": "Prepara los ingredientes. Mezcla todo en un sartén o cacerola y cocina hasta que esté listo. Disfruta tu Ensalada de aguacate.",
+    "tiempo": "43 min",
+    "dificultad": "media",
+    "metadata_salud": {
+      "apto_para_condiciones": [],
+      "alergias_comunes": [],
+      "tags_nutricionales": [
+        "alto_fibra"
+      ]
+    }
+  },
+  {
+    "id": 72,
+    "nombre": "Chiles rellenos de queso",
+    "ingredientes": [
+      "ajo",
+      "zanahoria",
+      "vegetales",
+      "calabaza",
+      "sal",
+      "cebolla"
+    ],
+    "cantidades": [
+      "1 porción de ajo",
+      "1 porción de zanahoria",
+      "1 porción de vegetales",
+      "1 porción de calabaza",
+      "1 porción de sal",
+      "1 porción de cebolla"
+    ],
+    "preparacion": "Prepara los ingredientes. Mezcla todo en un sartén o cacerola y cocina hasta que esté listo. Disfruta tu Chiles rellenos de queso.",
+    "tiempo": "53 min",
+    "dificultad": "fácil",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "celiaquia"
+      ],
+      "alergias_comunes": [],
+      "tags_nutricionales": [
+        "alto_fibra"
+      ]
+    }
+  },
+  {
+    "id": 73,
+    "nombre": "Tortitas de coliflor",
+    "ingredientes": [
+      "ajo",
+      "zanahoria",
+      "vegetales",
+      "aguacate",
+      "calabaza",
+      "sal",
+      "cebolla"
+    ],
+    "cantidades": [
+      "1 porción de ajo",
+      "1 porción de zanahoria",
+      "1 porción de vegetales",
+      "1 porción de aguacate",
+      "1 porción de calabaza",
+      "1 porción de sal",
+      "1 porción de cebolla"
+    ],
+    "preparacion": "Prepara los ingredientes. Mezcla todo en un sartén o cacerola y cocina hasta que esté listo. Disfruta tu Tortitas de coliflor.",
+    "tiempo": "48 min",
+    "dificultad": "fácil",
+    "metadata_salud": {
+      "apto_para_condiciones": [],
+      "alergias_comunes": [],
+      "tags_nutricionales": [
+        "alto_fibra"
+      ]
+    }
+  },
+  {
+    "id": 74,
+    "nombre": "Espinacas con garbanzos",
+    "ingredientes": [
+      "ajo",
+      "zanahoria",
+      "vegetales",
+      "calabaza",
+      "sal",
+      "cebolla"
+    ],
+    "cantidades": [
+      "1 porción de ajo",
+      "1 porción de zanahoria",
+      "1 porción de vegetales",
+      "1 porción de calabaza",
+      "1 porción de sal",
+      "1 porción de cebolla"
+    ],
+    "preparacion": "Prepara los ingredientes. Mezcla todo en un sartén o cacerola y cocina hasta que esté listo. Disfruta tu Espinacas con garbanzos.",
+    "tiempo": "27 min",
+    "dificultad": "media",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "colesterol_alto"
+      ],
+      "alergias_comunes": [],
+      "tags_nutricionales": [
+        "alto_fibra"
+      ]
+    }
+  },
+  {
+    "id": 75,
+    "nombre": "Vegetales estilo ChefMind 10",
+    "ingredientes": [
+      "ajo",
+      "zanahoria",
+      "vegetales",
+      "calabaza",
+      "sal",
+      "cebolla"
+    ],
+    "cantidades": [
+      "1 porción de ajo",
+      "1 porción de zanahoria",
+      "1 porción de vegetales",
+      "1 porción de calabaza",
+      "1 porción de sal",
+      "1 porción de cebolla"
+    ],
+    "preparacion": "Prepara los ingredientes. Mezcla todo en un sartén o cacerola y cocina hasta que esté listo. Disfruta tu Vegetales estilo ChefMind 10.",
+    "tiempo": "23 min",
+    "dificultad": "media",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "diabetes",
+        "hipertension"
+      ],
+      "alergias_comunes": [],
+      "tags_nutricionales": [
+        "alto_fibra"
+      ]
+    }
+  },
+  {
+    "id": 76,
+    "nombre": "Vegetales estilo ChefMind 11",
+    "ingredientes": [
+      "ajo",
+      "zanahoria",
+      "vegetales",
+      "calabaza",
+      "sal",
+      "cebolla"
+    ],
+    "cantidades": [
+      "1 porción de ajo",
+      "1 porción de zanahoria",
+      "1 porción de vegetales",
+      "1 porción de calabaza",
+      "1 porción de sal",
+      "1 porción de cebolla"
+    ],
+    "preparacion": "Prepara los ingredientes. Mezcla todo en un sartén o cacerola y cocina hasta que esté listo. Disfruta tu Vegetales estilo ChefMind 11.",
+    "tiempo": "21 min",
+    "dificultad": "fácil",
+    "metadata_salud": {
+      "apto_para_condiciones": [],
+      "alergias_comunes": [],
+      "tags_nutricionales": [
+        "alto_fibra"
+      ]
+    }
+  },
+  {
+    "id": 77,
+    "nombre": "Vegetales estilo ChefMind 12",
+    "ingredientes": [
+      "ajo",
+      "zanahoria",
+      "vegetales",
+      "aguacate",
+      "calabaza",
+      "sal",
+      "cebolla"
+    ],
+    "cantidades": [
+      "1 porción de ajo",
+      "1 porción de zanahoria",
+      "1 porción de vegetales",
+      "1 porción de aguacate",
+      "1 porción de calabaza",
+      "1 porción de sal",
+      "1 porción de cebolla"
+    ],
+    "preparacion": "Prepara los ingredientes. Mezcla todo en un sartén o cacerola y cocina hasta que esté listo. Disfruta tu Vegetales estilo ChefMind 12.",
+    "tiempo": "26 min",
+    "dificultad": "media",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "resistencia_insulina"
+      ],
+      "alergias_comunes": [],
+      "tags_nutricionales": [
+        "alto_fibra"
+      ]
+    }
+  },
+  {
+    "id": 78,
+    "nombre": "Vegetales estilo ChefMind 13",
+    "ingredientes": [
+      "ajo",
+      "zanahoria",
+      "vegetales",
+      "calabaza",
+      "sal",
+      "cebolla"
+    ],
+    "cantidades": [
+      "1 porción de ajo",
+      "1 porción de zanahoria",
+      "1 porción de vegetales",
+      "1 porción de calabaza",
+      "1 porción de sal",
+      "1 porción de cebolla"
+    ],
+    "preparacion": "Prepara los ingredientes. Mezcla todo en un sartén o cacerola y cocina hasta que esté listo. Disfruta tu Vegetales estilo ChefMind 13.",
+    "tiempo": "27 min",
+    "dificultad": "fácil",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "colesterol_alto"
+      ],
+      "alergias_comunes": [],
+      "tags_nutricionales": [
+        "alto_fibra"
+      ]
+    }
+  },
+  {
+    "id": 79,
+    "nombre": "Vegetales estilo ChefMind 14",
+    "ingredientes": [
+      "ajo",
+      "zanahoria",
+      "vegetales",
+      "calabaza",
+      "sal",
+      "cebolla"
+    ],
+    "cantidades": [
+      "1 porción de ajo",
+      "1 porción de zanahoria",
+      "1 porción de vegetales",
+      "1 porción de calabaza",
+      "1 porción de sal",
+      "1 porción de cebolla"
+    ],
+    "preparacion": "Prepara los ingredientes. Mezcla todo en un sartén o cacerola y cocina hasta que esté listo. Disfruta tu Vegetales estilo ChefMind 14.",
+    "tiempo": "50 min",
+    "dificultad": "media",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "celiaquia"
+      ],
+      "alergias_comunes": [],
+      "tags_nutricionales": [
+        "alto_fibra"
+      ]
+    }
+  },
+  {
+    "id": 80,
+    "nombre": "Vegetales estilo ChefMind 15",
+    "ingredientes": [
+      "ajo",
+      "zanahoria",
+      "vegetales",
+      "calabaza",
+      "sal",
+      "cebolla"
+    ],
+    "cantidades": [
+      "1 porción de ajo",
+      "1 porción de zanahoria",
+      "1 porción de vegetales",
+      "1 porción de calabaza",
+      "1 porción de sal",
+      "1 porción de cebolla"
+    ],
+    "preparacion": "Prepara los ingredientes. Mezcla todo en un sartén o cacerola y cocina hasta que esté listo. Disfruta tu Vegetales estilo ChefMind 15.",
+    "tiempo": "44 min",
+    "dificultad": "fácil",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "resistencia_insulina"
+      ],
+      "alergias_comunes": [],
+      "tags_nutricionales": [
+        "alto_fibra"
+      ]
+    }
+  },
+  {
+    "id": 81,
+    "nombre": "Frijoles charros",
+    "ingredientes": [
+      "legumbres",
+      "ajo",
+      "agua",
+      "lenteja",
+      "frijol",
+      "sal",
+      "cebolla"
+    ],
+    "cantidades": [
+      "1 porción de legumbres",
+      "1 porción de ajo",
+      "1 porción de agua",
+      "1 porción de lenteja",
+      "1 porción de frijol",
+      "1 porción de sal",
+      "1 porción de cebolla"
+    ],
+    "preparacion": "Prepara los ingredientes. Mezcla todo en un sartén o cacerola y cocina hasta que esté listo. Disfruta tu Frijoles charros.",
+    "tiempo": "17 min",
+    "dificultad": "media",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "celiaquia",
+        "resistencia_insulina"
+      ],
+      "alergias_comunes": [],
+      "tags_nutricionales": [
+        "alto_fibra"
+      ]
+    }
+  },
+  {
+    "id": 82,
+    "nombre": "Sopa de lentejas",
+    "ingredientes": [
+      "legumbres",
+      "ajo",
+      "agua",
+      "frijol",
+      "sal",
+      "cebolla"
+    ],
+    "cantidades": [
+      "1 porción de legumbres",
+      "1 porción de ajo",
+      "1 porción de agua",
+      "1 porción de frijol",
+      "1 porción de sal",
+      "1 porción de cebolla"
+    ],
+    "preparacion": "Prepara los ingredientes. Mezcla todo en un sartén o cacerola y cocina hasta que esté listo. Disfruta tu Sopa de lentejas.",
+    "tiempo": "41 min",
+    "dificultad": "media",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "diabetes",
+        "hipertension"
+      ],
+      "alergias_comunes": [],
+      "tags_nutricionales": [
+        "alto_fibra"
+      ]
+    }
+  },
+  {
+    "id": 83,
+    "nombre": "Ensalada de frijoles",
+    "ingredientes": [
+      "legumbres",
+      "ajo",
+      "agua",
+      "frijol",
+      "sal",
+      "cebolla"
+    ],
+    "cantidades": [
+      "1 porción de legumbres",
+      "1 porción de ajo",
+      "1 porción de agua",
+      "1 porción de frijol",
+      "1 porción de sal",
+      "1 porción de cebolla"
+    ],
+    "preparacion": "Prepara los ingredientes. Mezcla todo en un sartén o cacerola y cocina hasta que esté listo. Disfruta tu Ensalada de frijoles.",
+    "tiempo": "41 min",
+    "dificultad": "fácil",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "colesterol_alto"
+      ],
+      "alergias_comunes": [],
+      "tags_nutricionales": [
+        "alto_fibra"
+      ]
+    }
+  },
+  {
+    "id": 84,
+    "nombre": "Hummus casero",
+    "ingredientes": [
+      "legumbres",
+      "ajo",
+      "agua",
+      "lenteja",
+      "frijol",
+      "sal",
+      "cebolla"
+    ],
+    "cantidades": [
+      "1 porción de legumbres",
+      "1 porción de ajo",
+      "1 porción de agua",
+      "1 porción de lenteja",
+      "1 porción de frijol",
+      "1 porción de sal",
+      "1 porción de cebolla"
+    ],
+    "preparacion": "Prepara los ingredientes. Mezcla todo en un sartén o cacerola y cocina hasta que esté listo. Disfruta tu Hummus casero.",
+    "tiempo": "27 min",
+    "dificultad": "media",
+    "metadata_salud": {
+      "apto_para_condiciones": [],
+      "alergias_comunes": [],
+      "tags_nutricionales": [
+        "alto_fibra"
+      ]
+    }
+  },
+  {
+    "id": 85,
+    "nombre": "Tacos de frijol",
+    "ingredientes": [
+      "legumbres",
+      "ajo",
+      "agua",
+      "frijol",
+      "sal",
+      "cebolla"
+    ],
+    "cantidades": [
+      "1 porción de legumbres",
+      "1 porción de ajo",
+      "1 porción de agua",
+      "1 porción de frijol",
+      "1 porción de sal",
+      "1 porción de cebolla"
+    ],
+    "preparacion": "Prepara los ingredientes. Mezcla todo en un sartén o cacerola y cocina hasta que esté listo. Disfruta tu Tacos de frijol.",
+    "tiempo": "31 min",
+    "dificultad": "fácil",
+    "metadata_salud": {
+      "apto_para_condiciones": [],
+      "alergias_comunes": [],
+      "tags_nutricionales": [
+        "alto_fibra"
+      ]
+    }
+  },
+  {
+    "id": 86,
+    "nombre": "Frijoles refritos",
+    "ingredientes": [
+      "legumbres",
+      "ajo",
+      "agua",
+      "frijol",
+      "sal",
+      "cebolla"
+    ],
+    "cantidades": [
+      "1 porción de legumbres",
+      "1 porción de ajo",
+      "1 porción de agua",
+      "1 porción de frijol",
+      "1 porción de sal",
+      "1 porción de cebolla"
+    ],
+    "preparacion": "Prepara los ingredientes. Mezcla todo en un sartén o cacerola y cocina hasta que esté listo. Disfruta tu Frijoles refritos.",
+    "tiempo": "40 min",
+    "dificultad": "fácil",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "resistencia_insulina"
+      ],
+      "alergias_comunes": [],
+      "tags_nutricionales": [
+        "alto_fibra"
+      ]
+    }
+  },
+  {
+    "id": 87,
+    "nombre": "Sopa de habas",
+    "ingredientes": [
+      "legumbres",
+      "ajo",
+      "agua",
+      "lenteja",
+      "frijol",
+      "sal",
+      "cebolla"
+    ],
+    "cantidades": [
+      "1 porción de legumbres",
+      "1 porción de ajo",
+      "1 porción de agua",
+      "1 porción de lenteja",
+      "1 porción de frijol",
+      "1 porción de sal",
+      "1 porción de cebolla"
+    ],
+    "preparacion": "Prepara los ingredientes. Mezcla todo en un sartén o cacerola y cocina hasta que esté listo. Disfruta tu Sopa de habas.",
+    "tiempo": "48 min",
+    "dificultad": "media",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "diabetes",
+        "hipertension"
+      ],
+      "alergias_comunes": [],
+      "tags_nutricionales": [
+        "alto_fibra"
+      ]
+    }
+  },
+  {
+    "id": 88,
+    "nombre": "Guiso de garbanzos",
+    "ingredientes": [
+      "legumbres",
+      "ajo",
+      "agua",
+      "frijol",
+      "sal",
+      "cebolla"
+    ],
+    "cantidades": [
+      "1 porción de legumbres",
+      "1 porción de ajo",
+      "1 porción de agua",
+      "1 porción de frijol",
+      "1 porción de sal",
+      "1 porción de cebolla"
+    ],
+    "preparacion": "Prepara los ingredientes. Mezcla todo en un sartén o cacerola y cocina hasta que esté listo. Disfruta tu Guiso de garbanzos.",
+    "tiempo": "59 min",
+    "dificultad": "media",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "celiaquia"
+      ],
+      "alergias_comunes": [],
+      "tags_nutricionales": [
+        "alto_fibra"
+      ]
+    }
+  },
+  {
+    "id": 89,
+    "nombre": "Lentejas a la mexicana",
+    "ingredientes": [
+      "legumbres",
+      "ajo",
+      "agua",
+      "frijol",
+      "sal",
+      "cebolla"
+    ],
+    "cantidades": [
+      "1 porción de legumbres",
+      "1 porción de ajo",
+      "1 porción de agua",
+      "1 porción de frijol",
+      "1 porción de sal",
+      "1 porción de cebolla"
+    ],
+    "preparacion": "Prepara los ingredientes. Mezcla todo en un sartén o cacerola y cocina hasta que esté listo. Disfruta tu Lentejas a la mexicana.",
+    "tiempo": "45 min",
+    "dificultad": "fácil",
+    "metadata_salud": {
+      "apto_para_condiciones": [],
+      "alergias_comunes": [],
+      "tags_nutricionales": [
+        "alto_fibra"
+      ]
+    }
+  },
+  {
+    "id": 90,
+    "nombre": "Sopa de frijol negro",
+    "ingredientes": [
+      "legumbres",
+      "ajo",
+      "agua",
+      "lenteja",
+      "frijol",
+      "sal",
+      "cebolla"
+    ],
+    "cantidades": [
+      "1 porción de legumbres",
+      "1 porción de ajo",
+      "1 porción de agua",
+      "1 porción de lenteja",
+      "1 porción de frijol",
+      "1 porción de sal",
+      "1 porción de cebolla"
+    ],
+    "preparacion": "Prepara los ingredientes. Mezcla todo en un sartén o cacerola y cocina hasta que esté listo. Disfruta tu Sopa de frijol negro.",
+    "tiempo": "58 min",
+    "dificultad": "media",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "resistencia_insulina"
+      ],
+      "alergias_comunes": [],
+      "tags_nutricionales": [
+        "alto_fibra"
+      ]
+    }
+  },
+  {
+    "id": 91,
+    "nombre": "Legumbres estilo ChefMind 10",
+    "ingredientes": [
+      "legumbres",
+      "ajo",
+      "agua",
+      "frijol",
+      "sal",
+      "cebolla"
+    ],
+    "cantidades": [
+      "1 porción de legumbres",
+      "1 porción de ajo",
+      "1 porción de agua",
+      "1 porción de frijol",
+      "1 porción de sal",
+      "1 porción de cebolla"
+    ],
+    "preparacion": "Prepara los ingredientes. Mezcla todo en un sartén o cacerola y cocina hasta que esté listo. Disfruta tu Legumbres estilo ChefMind 10.",
+    "tiempo": "18 min",
+    "dificultad": "media",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "resistencia_insulina"
+      ],
+      "alergias_comunes": [],
+      "tags_nutricionales": [
+        "alto_fibra"
+      ]
+    }
+  },
+  {
+    "id": 92,
+    "nombre": "Legumbres estilo ChefMind 11",
+    "ingredientes": [
+      "legumbres",
+      "ajo",
+      "agua",
+      "frijol",
+      "sal",
+      "cebolla"
+    ],
+    "cantidades": [
+      "1 porción de legumbres",
+      "1 porción de ajo",
+      "1 porción de agua",
+      "1 porción de frijol",
+      "1 porción de sal",
+      "1 porción de cebolla"
+    ],
+    "preparacion": "Prepara los ingredientes. Mezcla todo en un sartén o cacerola y cocina hasta que esté listo. Disfruta tu Legumbres estilo ChefMind 11.",
+    "tiempo": "26 min",
+    "dificultad": "media",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "celiaquia",
+        "resistencia_insulina"
+      ],
+      "alergias_comunes": [],
+      "tags_nutricionales": [
+        "alto_fibra"
+      ]
+    }
+  },
+  {
+    "id": 93,
+    "nombre": "Legumbres estilo ChefMind 12",
+    "ingredientes": [
+      "legumbres",
+      "ajo",
+      "agua",
+      "lenteja",
+      "frijol",
+      "sal",
+      "cebolla"
+    ],
+    "cantidades": [
+      "1 porción de legumbres",
+      "1 porción de ajo",
+      "1 porción de agua",
+      "1 porción de lenteja",
+      "1 porción de frijol",
+      "1 porción de sal",
+      "1 porción de cebolla"
+    ],
+    "preparacion": "Prepara los ingredientes. Mezcla todo en un sartén o cacerola y cocina hasta que esté listo. Disfruta tu Legumbres estilo ChefMind 12.",
+    "tiempo": "17 min",
+    "dificultad": "media",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "celiaquia",
+        "resistencia_insulina"
+      ],
+      "alergias_comunes": [],
+      "tags_nutricionales": [
+        "alto_fibra"
+      ]
+    }
+  },
+  {
+    "id": 94,
+    "nombre": "Legumbres estilo ChefMind 13",
+    "ingredientes": [
+      "legumbres",
+      "ajo",
+      "agua",
+      "frijol",
+      "sal",
+      "cebolla"
+    ],
+    "cantidades": [
+      "1 porción de legumbres",
+      "1 porción de ajo",
+      "1 porción de agua",
+      "1 porción de frijol",
+      "1 porción de sal",
+      "1 porción de cebolla"
+    ],
+    "preparacion": "Prepara los ingredientes. Mezcla todo en un sartén o cacerola y cocina hasta que esté listo. Disfruta tu Legumbres estilo ChefMind 13.",
+    "tiempo": "42 min",
+    "dificultad": "media",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "hipertension"
+      ],
+      "alergias_comunes": [],
+      "tags_nutricionales": [
+        "alto_fibra"
+      ]
+    }
+  },
+  {
+    "id": 95,
+    "nombre": "Legumbres estilo ChefMind 14",
+    "ingredientes": [
+      "legumbres",
+      "ajo",
+      "agua",
+      "frijol",
+      "sal",
+      "cebolla"
+    ],
+    "cantidades": [
+      "1 porción de legumbres",
+      "1 porción de ajo",
+      "1 porción de agua",
+      "1 porción de frijol",
+      "1 porción de sal",
+      "1 porción de cebolla"
+    ],
+    "preparacion": "Prepara los ingredientes. Mezcla todo en un sartén o cacerola y cocina hasta que esté listo. Disfruta tu Legumbres estilo ChefMind 14.",
+    "tiempo": "32 min",
+    "dificultad": "media",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "resistencia_insulina"
+      ],
+      "alergias_comunes": [],
+      "tags_nutricionales": [
+        "alto_fibra"
+      ]
+    }
+  },
+  {
+    "id": 96,
+    "nombre": "Legumbres estilo ChefMind 15",
+    "ingredientes": [
+      "legumbres",
+      "ajo",
+      "agua",
+      "lenteja",
+      "frijol",
+      "sal",
+      "cebolla"
+    ],
+    "cantidades": [
+      "1 porción de legumbres",
+      "1 porción de ajo",
+      "1 porción de agua",
+      "1 porción de lenteja",
+      "1 porción de frijol",
+      "1 porción de sal",
+      "1 porción de cebolla"
+    ],
+    "preparacion": "Prepara los ingredientes. Mezcla todo en un sartén o cacerola y cocina hasta que esté listo. Disfruta tu Legumbres estilo ChefMind 15.",
+    "tiempo": "59 min",
+    "dificultad": "media",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "celiaquia"
+      ],
+      "alergias_comunes": [],
+      "tags_nutricionales": [
+        "alto_fibra"
+      ]
+    }
+  },
+  {
+    "id": 97,
+    "nombre": "Especial sorpresa 0",
+    "ingredientes": [
+      "aguacate",
+      "huevo",
+      "pan"
+    ],
+    "cantidades": [
+      "1 aguacate",
+      "2 huevos",
+      "2 rebanadas pan"
+    ],
+    "preparacion": "Tuesta el pan, fríe los huevos y coloca el aguacate encima.",
+    "tiempo": "10 min",
+    "dificultad": "fácil",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "diabetes",
+        "colesterol_alto"
+      ],
+      "alergias_comunes": [
+        "gluten"
+      ],
+      "tags_nutricionales": [
+        "grasas_saludables"
+      ]
+    }
+  },
+  {
+    "id": 98,
+    "nombre": "Especial sorpresa 1",
+    "ingredientes": [
+      "aguacate",
+      "huevo",
+      "pan"
+    ],
+    "cantidades": [
+      "1 aguacate",
+      "2 huevos",
+      "2 rebanadas pan"
+    ],
+    "preparacion": "Tuesta el pan, fríe los huevos y coloca el aguacate encima.",
+    "tiempo": "10 min",
+    "dificultad": "fácil",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "diabetes",
+        "colesterol_alto"
+      ],
+      "alergias_comunes": [
+        "gluten"
+      ],
+      "tags_nutricionales": [
+        "grasas_saludables"
+      ]
+    }
+  },
+  {
+    "id": 99,
+    "nombre": "Especial sorpresa 2",
+    "ingredientes": [
+      "aguacate",
+      "huevo",
+      "pan"
+    ],
+    "cantidades": [
+      "1 aguacate",
+      "2 huevos",
+      "2 rebanadas pan"
+    ],
+    "preparacion": "Tuesta el pan, fríe los huevos y coloca el aguacate encima.",
+    "tiempo": "10 min",
+    "dificultad": "fácil",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "diabetes",
+        "colesterol_alto"
+      ],
+      "alergias_comunes": [
+        "gluten"
+      ],
+      "tags_nutricionales": [
+        "grasas_saludables"
+      ]
+    }
+  },
+  {
+    "id": 100,
+    "nombre": "Especial sorpresa 3",
+    "ingredientes": [
+      "aguacate",
+      "huevo",
+      "pan"
+    ],
+    "cantidades": [
+      "1 aguacate",
+      "2 huevos",
+      "2 rebanadas pan"
+    ],
+    "preparacion": "Tuesta el pan, fríe los huevos y coloca el aguacate encima.",
+    "tiempo": "10 min",
+    "dificultad": "fácil",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "diabetes",
+        "colesterol_alto"
+      ],
+      "alergias_comunes": [
+        "gluten"
+      ],
+      "tags_nutricionales": [
+        "grasas_saludables"
+      ]
+    }
+  },
+  {
+    "id": 1000,
+    "nombre": "Huevos Rancheros Tradicionales con Salsa Roja Casera",
+    "ingredientes": [
+      "huevo",
+      "tortilla de maíz",
+      "tomate",
+      "cebolla",
+      "chile serrano",
+      "cilantro",
+      "aceite",
+      "sal"
+    ],
+    "cantidades": [
+      "2 huevo",
+      "2 tortilla de maíz",
+      "2 tomate rojo mediano",
+      "1/4 cebolla blanca",
+      "1 chile serrano",
+      "2 rama cilantro",
+      "2 cucharada aceite vegetal",
+      "1 pizca sal"
+    ],
+    "preparacion": "Paso 1: Prepara la salsa. Licúa los tomates, la mitad de la cebolla y el chile serrano con un poco de agua hasta obtener una salsa homogénea. Calienta una cucharada de aceite en una sartén y sofríe la salsa por 5 minutos, sazona con sal y reserva. Paso 2: Fríe las tortillas y los huevos. En otra sartén con una cucharada de aceite, calienta las tortillas hasta que estén suaves. En el mismo aceite, fríe los dos huevos a tu gusto (estrellados o con la yema suave). Paso 3: Monta el plato. Coloca una tortilla en cada plato, encima un huevo frito y báñalos generosamente con la salsa roja caliente. Decora con cilantro picado y el resto de la cebolla picada. Sirve caliente.",
+    "tiempo": "25 min",
+    "dificultad": "fácil",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "celiaquia",
+        "resistencia_insulina"
+      ],
+      "alergias_comunes": [],
+      "tags_nutricionales": [
+        "alto_proteina",
+        "sin_gluten",
+        "vegetariano",
+        "antioxidante"
+      ]
+    }
+  },
+  {
+    "id": 1001,
+    "nombre": "Huevos a la Mexicana con Pico de Gallo Fresco",
+    "ingredientes": [
+      "huevo",
+      "tomate",
+      "cebolla",
+      "chile jalapeño",
+      "aceite",
+      "sal"
+    ],
+    "cantidades": [
+      "3 huevo",
+      "2 tomate rojo mediano",
+      "1/4 cebolla blanca",
+      "1 chile jalapeño",
+      "1 cucharada aceite vegetal",
+      "1 pizca sal"
+    ],
+    "preparacion": "Paso 1: Pica finamente el tomate, la cebolla y el chile jalapeño (retira las semillas si prefieres menos picante). Calienta el aceite en una sartén a fuego medio. Paso 2: Agrega la cebolla picada y sofríe hasta que esté transparente, aproximadamente 3 minutos. Añade el tomate y el chile jalapeño, cocina por 5 minutos más hasta que los vegetales se ablanden. Paso 3: Bate los huevos en un recipiente con una pizca de sal. Vierte los huevos batidos sobre los vegetales en la sartén y revuelve constantemente hasta que los huevos estén cocidos a tu gusto. Sirve caliente acompañado de frijoles o tortillas.",
+    "tiempo": "15 min",
+    "dificultad": "fácil",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "diabetes",
+        "hipertension",
+        "colesterol_alto"
+      ],
+      "alergias_comunes": [],
+      "tags_nutricionales": [
+        "alto_proteina",
+        "bajo_calorias",
+        "vegetariano",
+        "antioxidante"
+      ]
+    }
+  },
+  {
+    "id": 1002,
+    "nombre": "Huevos con Nopales y Salsa Verde Ligeros",
+    "ingredientes": [
+      "huevo",
+      "nopal cocido",
+      "cebolla",
+      "chile serrano",
+      "tomate verde",
+      "cilantro",
+      "aceite",
+      "sal"
+    ],
+    "cantidades": [
+      "3 huevo",
+      "1 taza nopal cocido y picado",
+      "1/4 cebolla blanca",
+      "1 chile serrano",
+      "2 tomate verde",
+      "2 rama cilantro",
+      "1 cucharada aceite vegetal",
+      "1 pizca sal"
+    ],
+    "preparacion": "Paso 1: Prepara la salsa verde. Hierve los tomates verdes y el chile serrano hasta que estén suaves. Licúalos con un trozo de cebolla y el cilantro, sazona con sal y reserva. Paso 2: Cocina los nopales. En una sartén con un poco de aceite, saltea los nopales picados y cocidos con un trozo de cebolla picada por 5 minutos. Paso 3: Agrega los huevos. Bate los huevos y viértelos sobre los nopales. Revuelve hasta que los huevos estén cocidos. Incorpora la salsa verde caliente y mezcla bien. Sirve de inmediato.",
+    "tiempo": "20 min",
+    "dificultad": "fácil",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "diabetes",
+        "hipertension",
+        "colesterol_alto",
+        "resistencia_insulina"
+      ],
+      "alergias_comunes": [],
+      "tags_nutricionales": [
+        "alto_proteina",
+        "alto_fibra",
+        "bajo_calorias",
+        "vegetariano",
+        "sin_gluten"
+      ]
+    }
+  },
+  {
+    "id": 1003,
+    "nombre": "Huevos Divorciados con Queso Fresco",
+    "ingredientes": [
+      "huevo",
+      "tortilla de maíz",
+      "tomate",
+      "tomatillo",
+      "chile serrano",
+      "cebolla",
+      "cilantro",
+      "aceite",
+      "sal",
+      "queso fresco"
+    ],
+    "cantidades": [
+      "2 huevo",
+      "2 tortilla de maíz",
+      "1 tomate rojo mediano",
+      "2 tomatillo verde",
+      "2 chile serrano",
+      "1/4 cebolla blanca",
+      "2 rama cilantro",
+      "2 cucharada aceite vegetal",
+      "1 pizca sal",
+      "50 gramo queso fresco"
+    ],
+    "preparacion": "Paso 1: Prepara las salsas. Para la salsa roja, licúa el tomate y un chile serrano con un trozo de cebolla. Para la salsa verde, licúa los tomatillos y el otro chile serrano con el resto de la cebolla y el cilantro. Sofríe cada salsa por separado en una cucharadita de aceite y sazona con sal. Paso 2: Fríe las tortillas y los huevos. En una sartén con aceite, fríe las dos tortillas hasta que estén suaves. En el mismo aceite, fríe los dos huevos estrellados. Paso 3: Monta el plato. Coloca una tortilla en cada plato. Sobre una tortilla, pon un huevo y báñalo con la salsa roja. Sobre la otra tortilla, pon el otro huevo y báñalo con la salsa verde. Decora con queso fresco desmoronado. Sirve caliente.",
+    "tiempo": "30 min",
+    "dificultad": "media",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "celiaquia"
+      ],
+      "alergias_comunes": [
+        "lactosa"
+      ],
+      "tags_nutricionales": [
+        "alto_proteina",
+        "sin_gluten",
+        "vegetariano",
+        "antioxidante"
+      ]
+    }
+  },
+  {
+    "id": 1004,
+    "nombre": "Huevos Revueltos con Jamón y Queso derretido",
+    "ingredientes": [
+      "huevo",
+      "jamón",
+      "queso chihuahua",
+      "leche",
+      "mantequilla",
+      "sal",
+      "pimienta"
+    ],
+    "cantidades": [
+      "3 huevo",
+      "2 rebanada jamón de pavo",
+      "50 gramo queso chihuahua rallado",
+      "1 cucharada leche",
+      "1 cucharadita mantequilla",
+      "1 pizca sal",
+      "1 pizca pimienta negra"
+    ],
+    "preparacion": "Paso 1: Corta el jamón en pequeños cubos. Bate los huevos en un tazón con la leche, la sal y la pimienta hasta que estén bien integrados. Paso 2: Calienta la mantequilla en una sartén antiadherente a fuego medio. Agrega el jamón picado y cocina por 2 minutos hasta que esté ligeramente dorado. Paso 3: Vierte los huevos batidos sobre el jamón. Cuando los huevos comiencen a cuajar por los bordes, espolvorea el queso rallado y revuelve suavemente hasta que los huevos estén cocidos a tu gusto y el queso se haya derretido. Sirve inmediatamente.",
+    "tiempo": "10 min",
+    "dificultad": "fácil",
+    "metadata_salud": {
+      "apto_para_condiciones": [],
+      "alergias_comunes": [
+        "lactosa"
+      ],
+      "tags_nutricionales": [
+        "alto_proteina"
+      ]
+    }
+  },
+  {
+    "id": 1005,
+    "nombre": "Omelette Relleno de Huitlacoche y Epazote",
+    "ingredientes": [
+      "huevo",
+      "huitlacoche",
+      "cebolla",
+      "chile serrano",
+      "queso oaxaca",
+      "aceite",
+      "sal",
+      "epazote"
+    ],
+    "cantidades": [
+      "3 huevo",
+      "1/2 taza huitlacoche",
+      "1/4 cebolla morada",
+      "1 chile serrano",
+      "50 gramo queso oaxaca",
+      "1 cucharada aceite vegetal",
+      "1 pizca sal",
+      "1 rama epazote"
+    ],
+    "preparacion": "Paso 1: Prepara el relleno. Pica finamente la cebolla y el chile serrano. En una sartén con media cucharada de aceite, sofríe la cebolla y el chile por 3 minutos. Agrega el huitlacoche y las hojas de epazote picadas, cocina por 5 minutos más, sazona con sal y reserva. Paso 2: Haz el omelette. Bate los huevos con una pizca de sal. Calienta el resto del aceite en una sartén antiadherente a fuego medio. Vierte los huevos y cocina hasta que el borde esté cuajado pero el centro aún jugoso. Paso 3: Rellena y dobla. Coloca el relleno de huitlacoche en el centro del omelette y esparce el queso oaxaca. Dobla el omelette por la mitad y cocina un minuto más hasta que el queso se derrita. Sirve caliente.",
+    "tiempo": "20 min",
+    "dificultad": "media",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "celiaquia",
+        "colesterol_alto"
+      ],
+      "alergias_comunes": [
+        "lactosa"
+      ],
+      "tags_nutricionales": [
+        "alto_proteina",
+        "sin_gluten",
+        "vegetariano",
+        "antioxidante"
+      ]
+    }
+  },
+  {
+    "id": 1006,
+    "nombre": "Machaca con Huevo Estilo Norteño",
+    "ingredientes": [
+      "huevo",
+      "machaca de res",
+      "tomate",
+      "cebolla",
+      "chile serrano",
+      "aceite",
+      "sal"
+    ],
+    "cantidades": [
+      "3 huevo",
+      "100 gramo machaca de res seca",
+      "1 tomate rojo mediano",
+      "1/4 cebolla blanca",
+      "1 chile serrano",
+      "1 cucharada aceite vegetal",
+      "1 pizca sal"
+    ],
+    "preparacion": "Paso 1: Hidrata la machaca. Si la machaca está muy seca, puedes remojarla en agua caliente por 5 minutos y luego escurrirla bien. Desmenuza con las manos. Paso 2: Sofríe los vegetales. Pica finamente el tomate, la cebolla y el chile serrano. Calienta el aceite en una sartén a fuego medio y sofríe la cebolla y el chile hasta que estén suaves, unos 3 minutos. Agrega el tomate y cocina por 5 minutos más. Paso 3: Agrega la machaca y los huevos. Incorpora la machaca desmenuzada a la sartén y cocina por 3 minutos. Luego, añade los huevos batidos con una pizca de sal y revuelve constantemente hasta que estén bien cocidos e integrados con la machaca. Sirve caliente con tortillas de harina.",
+    "tiempo": "20 min",
+    "dificultad": "fácil",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "celiaquia",
+        "resistencia_insulina"
+      ],
+      "alergias_comunes": [],
+      "tags_nutricionales": [
+        "alto_proteina",
+        "sin_gluten",
+        "bajo_carbohidratos"
+      ]
+    }
+  },
+  {
+    "id": 1007,
+    "nombre": "Huevos Motuleños con Jamón y Chícharos",
+    "ingredientes": [
+      "huevo",
+      "tortilla de maíz",
+      "jamón",
+      "chícharo",
+      "tomate",
+      "cebolla",
+      "chile habanero",
+      "aceite",
+      "sal",
+      "queso fresco"
+    ],
+    "cantidades": [
+      "2 huevo",
+      "2 tortilla de maíz",
+      "1 rebanada jamón de pavo",
+      "1/4 taza chícharo",
+      "2 tomate rojo",
+      "1/4 cebolla",
+      "1/2 chile habanero",
+      "2 cucharada aceite vegetal",
+      "1 pizca sal",
+      "30 gramo queso fresco"
+    ],
+    "preparacion": "Paso 1: Prepara la salsa. Hierve los tomates, la cebolla y el chile habanero (cuidado con el picante, puedes usar menos). Licúa hasta obtener una salsa tersa y sofríela en una cucharadita de aceite. Sazona con sal. Agrega los chícharos a la salsa y cocina por 2 minutos más. Paso 2: Fríe las tortillas, el jamón y los huevos. En una sartén con una cucharada de aceite, fríe las tortillas una por una hasta que estén ligeramente doradas pero suaves. En la misma sartén, fríe el jamón picado en cubos pequeños hasta que dore, luego retíralo. Finalmente, fríe los dos huevos estrellados. Paso 3: Monta el plato. Coloca una tortilla en cada plato, encima un huevo frito y báñalos con la salsa de tomate y chícharos. Espolvorea el jamón picado y el queso fresco desmoronado. Sirve caliente.",
+    "tiempo": "30 min",
+    "dificultad": "media",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "celiaquia"
+      ],
+      "alergias_comunes": [
+        "lactosa"
+      ],
+      "tags_nutricionales": [
+        "alto_proteina",
+        "sin_gluten",
+        "antioxidante"
+      ]
+    }
+  },
+  {
+    "id": 1008,
+    "nombre": "Tortilla de Huevo con Plátano Macho Frito",
+    "ingredientes": [
+      "huevo",
+      "plátano macho",
+      "cebolla",
+      "aceite",
+      "sal",
+      "pimienta"
+    ],
+    "cantidades": [
+      "3 huevo",
+      "1 plátano macho maduro",
+      "1/4 cebolla",
+      "2 cucharada aceite vegetal",
+      "1 pizca sal",
+      "1 pizca pimienta negra"
+    ],
+    "preparacion": "Paso 1: Prepara el plátano. Pela el plátano macho y córtalo en rodajas diagonales. Calienta una cucharada de aceite en una sartén y fríe las rodajas de plátano hasta que estén doradas por ambos lados. Retira y reserva. Paso 2: Prepara la cebolla y el huevo. Pica finamente la cebolla. En la misma sartén con el resto del aceite, sofríe la cebolla hasta que esté transparente. Bate los huevos con sal y pimienta. Paso 3: Cocina la tortilla. Vierte los huevos batidos sobre la cebolla en la sartén. Cuando los huevos comiencen a cuajar, distribuye las rodajas de plátano macho frito sobre ellos. Cocina hasta que la tortilla esté firme, puedes voltearla para dorar por ambos lados si lo deseas. Sirve caliente.",
+    "tiempo": "20 min",
+    "dificultad": "fácil",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "celiaquia",
+        "colesterol_alto"
+      ],
+      "alergias_comunes": [],
+      "tags_nutricionales": [
+        "alto_proteina",
+        "sin_gluten",
+        "vegetariano",
+        "alto_fibra"
+      ]
+    }
+  },
+  {
+    "id": 1009,
+    "nombre": "Tostadas de Huevo Estrellado con Aguacate y Queso Fresco",
+    "ingredientes": [
+      "huevo",
+      "tostada de maíz",
+      "aguacate",
+      "cebolla morada",
+      "limón",
+      "cilantro",
+      "sal",
+      "pimienta",
+      "queso fresco"
+    ],
+    "cantidades": [
+      "2 huevo",
+      "2 tostada de maíz",
+      "1/2 aguacate maduro",
+      "1/8 cebolla morada",
+      "1/2 limón",
+      "1 rama cilantro",
+      "1 pizca sal",
+      "1 pizca pimienta negra",
+      "30 gramo queso fresco"
+    ],
+    "preparacion": "Paso 1: Prepara el aguacate. Machaca el aguacate en un tazón con el jugo de limón, sal y pimienta al gusto. Pica finamente la cebolla morada y el cilantro, y agrégalos al aguacate, mezclando bien. Paso 2: Fríe los huevos. Calienta un poco de aceite en una sartén y fríe los dos huevos estrellados hasta que las claras estén cuajadas pero las yemas aún estén líquidas. Sazona con sal y pimienta. Paso 3: Arma las tostadas. Unta una generosa capa de aguacate sobre cada tostada de maíz. Coloca un huevo estrellado encima de cada tostada y desmorona el queso fresco por encima. Decora con unas hojas de cilantro fresco. Sirve inmediatamente.",
+    "tiempo": "15 min",
+    "dificultad": "fácil",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "celiaquia",
+        "hipertension",
+        "resistencia_insulina"
+      ],
+      "alergias_comunes": [
+        "lactosa"
+      ],
+      "tags_nutricionales": [
+        "alto_proteina",
+        "sin_gluten",
+        "rico_omega3",
+        "antioxidante",
+        "vegetariano",
+        "alto_fibra"
+      ]
+    }
+  },
+  {
+    "id": 1002,
+    "nombre": "Sopa de Tortilla Clásica",
+    "ingredientes": [
+      "tortilla",
+      "tomate",
+      "chile pasilla",
+      "cebolla",
+      "ajo",
+      "caldo de pollo",
+      "aguacate",
+      "queso",
+      "crema",
+      "cilantro",
+      "sal"
+    ],
+    "cantidades": [
+      "6 tortilla de maíz",
+      "3 tomate mediano",
+      "2 chile pasilla seco",
+      "1/4 cebolla blanca",
+      "2 diente ajo",
+      "4 taza caldo de pollo",
+      "1/2 aguacate",
+      "50 gramo queso fresco",
+      "2 cucharada crema agria",
+      "1/4 taza cilantro fresco",
+      "1 pizca sal"
+    ],
+    "preparacion": "Paso 1: Corta las tortillas en tiras delgadas y fríelas hasta que estén doradas y crujientes. En la misma grasa, fríe los chiles pasilla hasta que estén ligeramente tostados, retíralos y córtalos en aros. Paso 2: Licúa el tomate, cebolla y ajo con un poco de caldo de pollo. Sofríe esta salsa en una olla hasta que espese ligeramente. Agrega el resto del caldo de pollo, sazona con sal y deja hervir por 10 minutos. Paso 3: Sirve la sopa caliente en tazones, colocando tiras de tortilla frita, chile pasilla, cubos de aguacate, queso desmoronado, una cucharada de crema y cilantro picado al gusto. Sirve caliente.",
+    "tiempo": "30 min",
+    "dificultad": "fácil",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "celiaquia"
+      ],
+      "alergias_comunes": [
+        "lactosa"
+      ],
+      "tags_nutricionales": [
+        "sin_gluten",
+        "antioxidante"
+      ]
+    }
+  },
+  {
+    "id": 1003,
+    "nombre": "Caldo de Pollo Reconfortante",
+    "ingredientes": [
+      "pollo",
+      "zanahoria",
+      "papa",
+      "cebolla",
+      "ajo",
+      "apio",
+      "cilantro",
+      "sal"
+    ],
+    "cantidades": [
+      "1 kilo pollo (piezas con hueso)",
+      "2 zanahoria mediana",
+      "2 papa mediana",
+      "1/2 cebolla blanca",
+      "3 diente ajo",
+      "1 tallo apio",
+      "1/4 taza cilantro fresco",
+      "1 cucharadita sal"
+    ],
+    "preparacion": "Paso 1: En una olla grande, coloca las piezas de pollo y cubre con agua. Agrega la media cebolla, los dientes de ajo y la sal. Lleva a ebullición, luego reduce el fuego y cocina a fuego lento por 30 minutos, retirando la espuma que se forme. Paso 2: Retira el pollo y cuela el caldo. Desmenuza el pollo y reserva. Pela y corta la zanahoria, papa y apio en cubos medianos. Regresa el caldo colado a la olla, agrega las verduras y cocina hasta que estén tiernas. Paso 3: Incorpora el pollo desmenuzado al caldo, ajusta la sal si es necesario y cocina por otros 5 minutos. Sirve caliente, decorado con cilantro fresco picado. Sirve caliente.",
+    "tiempo": "60 min",
+    "dificultad": "fácil",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "diabetes",
+        "hipertension",
+        "celiaquia",
+        "colesterol_alto",
+        "resistencia_insulina"
+      ],
+      "alergias_comunes": [],
+      "tags_nutricionales": [
+        "alto_proteina",
+        "bajo_sodio",
+        "sin_gluten",
+        "bajo_calorias",
+        "bajo_grasa"
+      ]
+    }
+  },
+  {
+    "id": 1004,
+    "nombre": "Sopa de Lentejas Campesina",
+    "ingredientes": [
+      "lenteja",
+      "zanahoria",
+      "papa",
+      "cebolla",
+      "ajo",
+      "tomate",
+      "chorizo",
+      "caldo de verdura",
+      "cilantro",
+      "sal"
+    ],
+    "cantidades": [
+      "1 taza lenteja",
+      "1 zanahoria mediana",
+      "1 papa mediana",
+      "1/2 cebolla morada",
+      "2 diente ajo",
+      "1 tomate mediano",
+      "100 gramo chorizo (opcional)",
+      "4 taza caldo de verdura",
+      "1/4 taza cilantro fresco",
+      "1 pizca sal"
+    ],
+    "preparacion": "Paso 1: Lava las lentejas y ponlas a remojar por 30 minutos. Sofríe la cebolla picada y el ajo en una olla con un poco de aceite. Si usas chorizo, agrégalo y dora. Añade el tomate picado y cocina por 5 minutos. Paso 2: Escurre las lentejas y agrégalas a la olla junto con la zanahoria y papa cortadas en cubos pequeños. Vierte el caldo de verdura y sazona con sal. Lleva a ebullición, luego baja el fuego y cocina tapado por 25-30 minutos o hasta que las lentejas estén tiernas. Paso 3: Retira del fuego, prueba y ajusta la sal si es necesario. Sirve caliente espolvoreando cilantro fresco picado por encima. Sirve caliente.",
+    "tiempo": "45 min",
+    "dificultad": "media",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "diabetes",
+        "hipertension",
+        "celiaquia",
+        "colesterol_alto",
+        "resistencia_insulina"
+      ],
+      "alergias_comunes": [],
+      "tags_nutricionales": [
+        "alto_fibra",
+        "alto_proteina",
+        "vegetariano",
+        "vegano"
+      ]
+    }
+  },
+  {
+    "id": 1005,
+    "nombre": "Crema de Elote Cremosa",
+    "ingredientes": [
+      "elote",
+      "cebolla",
+      "ajo",
+      "caldo de verdura",
+      "leche",
+      "mantequilla",
+      "sal",
+      "pimienta"
+    ],
+    "cantidades": [
+      "3 taza elote desgranado",
+      "1/4 cebolla blanca",
+      "1 diente ajo",
+      "3 taza caldo de verdura",
+      "1 taza leche entera",
+      "2 cucharada mantequilla",
+      "1 pizca sal",
+      "1 pizca pimienta negra"
+    ],
+    "preparacion": "Paso 1: En una olla, derrite la mantequilla y sofríe la cebolla y el ajo picados hasta que estén transparentes. Agrega el elote desgranado y cocina por 5 minutos, revolviendo ocasionalmente. Paso 2: Vierte el caldo de verdura y lleva a ebullición. Reduce el fuego y cocina a fuego lento por 10 minutos. Retira del fuego y licúa la mezcla hasta obtener una crema suave. Puedes pasarla por un colador fino para una textura más sedosa. Paso 3: Regresa la crema a la olla, añade la leche y cocina a fuego bajo, revolviendo constantemente, hasta que espese ligeramente. No dejes que hierva. Sazona con sal y pimienta al gusto. Sirve caliente.",
+    "tiempo": "25 min",
+    "dificultad": "fácil",
+    "metadata_salud": {
+      "apto_para_condiciones": [],
+      "alergias_comunes": [
+        "lactosa"
+      ],
+      "tags_nutricionales": [
+        "vegetariano",
+        "sin_gluten"
+      ]
+    }
+  },
+  {
+    "id": 1006,
+    "nombre": "Ajiaco Santafereño (Sopa Colombiana)",
+    "ingredientes": [
+      "pollo",
+      "papa criolla",
+      "papa pastusa",
+      "papa sabanera",
+      "mazorca",
+      "guasca",
+      "cilantro",
+      "cebolla",
+      "ajo",
+      "alcaparra",
+      "crema de leche",
+      "aguacate",
+      "sal"
+    ],
+    "cantidades": [
+      "2 pechuga pollo",
+      "2 papa criolla",
+      "2 papa pastusa",
+      "2 papa sabanera",
+      "2 mazorca tierna",
+      "1/2 taza guasca seca",
+      "1/4 taza cilantro fresco",
+      "1/2 cebolla blanca",
+      "2 diente ajo",
+      "2 cucharada alcaparra",
+      "1/4 taza crema de leche",
+      "1/2 aguacate",
+      "1 cucharadita sal"
+    ],
+    "preparacion": "Paso 1: Cocina las pechugas de pollo en agua con la media cebolla, ajo y sal hasta que estén cocidas. Retira el pollo, desmenúzalo y reserva. Cuela el caldo y regresa a la olla. Paso 2: Pela y corta las papas en rodajas o cubos. Agrega las papas y las mazorcas partidas en trozos al caldo. Incorpora las guascas y cocina a fuego medio hasta que las papas se deshagan y el caldo espese. Paso 3: Agrega el pollo desmenuzado, mezcla bien y cocina por 5 minutos más. Sirve el ajiaco caliente acompañado de alcaparras, crema de leche y aguacate en cubos. Sirve caliente.",
+    "tiempo": "75 min",
+    "dificultad": "media",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "celiaquia"
+      ],
+      "alergias_comunes": [
+        "lactosa"
+      ],
+      "tags_nutricionales": [
+        "alto_proteina",
+        "sin_gluten"
+      ]
+    }
+  },
+  {
+    "id": 1007,
+    "nombre": "Sopa de Fideo a la Mexicana",
+    "ingredientes": [
+      "fideo",
+      "tomate",
+      "cebolla",
+      "ajo",
+      "caldo de pollo",
+      "aceite vegetal",
+      "cilantro",
+      "sal"
+    ],
+    "cantidades": [
+      "150 gramo fideo (cabello de ángel)",
+      "2 tomate mediano",
+      "1/4 cebolla blanca",
+      "1 diente ajo",
+      "4 taza caldo de pollo",
+      "2 cucharada aceite vegetal",
+      "2 cucharada cilantro picado",
+      "1 pizca sal"
+    ],
+    "preparacion": "Paso 1: En una olla, calienta el aceite y dora el fideo hasta que adquiera un color dorado claro, moviendo constantemente para evitar que se queme. Retira el fideo de la olla y reserva. Paso 2: Licúa el tomate, cebolla y ajo con un poco de caldo de pollo hasta obtener una salsa homogénea. Vierte esta salsa en la olla donde doraste el fideo (si queda un poco de aceite) y cocina a fuego medio hasta que espese y cambie ligeramente de color. Paso 3: Agrega el fideo dorado a la salsa, vierte el resto del caldo de pollo y sazona con sal. Cocina a fuego medio-bajo hasta que el fideo esté tierno y haya absorbido la mayor parte del caldo. Sirve caliente, espolvoreando cilantro fresco. Sirve caliente.",
+    "tiempo": "25 min",
+    "dificultad": "fácil",
+    "metadata_salud": {
+      "apto_para_condiciones": [],
+      "alergias_comunes": [
+        "gluten"
+      ],
+      "tags_nutricionales": []
+    }
+  },
+  {
+    "id": 1008,
+    "nombre": "Sancocho de Gallina Caribeño",
+    "ingredientes": [
+      "gallina",
+      "yuca",
+      "plátano verde",
+      "papa",
+      "mazorca",
+      "ñame",
+      "cebolla",
+      "ajo",
+      "cilantro",
+      "sal",
+      "comino"
+    ],
+    "cantidades": [
+      "1 kilo gallina (en piezas)",
+      "200 gramo yuca",
+      "1 plátano verde",
+      "2 papa mediana",
+      "1 mazorca tierna",
+      "100 gramo ñame",
+      "1/2 cebolla roja",
+      "3 diente ajo",
+      "1/4 taza cilantro fresco",
+      "1 cucharadita sal",
+      "1/2 cucharadita comino molido"
+    ],
+    "preparacion": "Paso 1: En una olla grande, cocina la gallina con agua, cebolla, ajo, sal y comino hasta que esté tierna (aproximadamente 1 hora). Retira la gallina, desmenúzala y reserva el caldo. Paso 2: Pela y corta la yuca, plátano verde, papa, mazorca y ñame en trozos grandes. Agrega todas las verduras al caldo de gallina y cocina hasta que estén blandas y el caldo haya espesado ligeramente (unas 30-40 minutos). Paso 3: Incorpora la gallina desmenuzada al sancocho y cocina por 10 minutos más para que los sabores se integren. Rectifica la sal si es necesario. Sirve caliente, adornado con cilantro fresco picado. Sirve caliente.",
+    "tiempo": "90 min",
+    "dificultad": "media",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "celiaquia"
+      ],
+      "alergias_comunes": [],
+      "tags_nutricionales": [
+        "alto_proteina",
+        "sin_gluten",
+        "alto_fibra"
+      ]
+    }
+  },
+  {
+    "id": 1009,
+    "nombre": "Caldo de Camarón Estilo Nayarit",
+    "ingredientes": [
+      "camarón",
+      "tomate",
+      "cebolla",
+      "ajo",
+      "chile guajillo",
+      "caldo de pescado",
+      "zanahoria",
+      "papa",
+      "cilantro",
+      "limón",
+      "sal"
+    ],
+    "cantidades": [
+      "500 gramo camarón fresco",
+      "3 tomate mediano",
+      "1/4 cebolla blanca",
+      "2 diente ajo",
+      "3 chile guajillo",
+      "4 taza caldo de pescado",
+      "1 zanahoria mediana",
+      "1 papa mediana",
+      "1/4 taza cilantro fresco",
+      "1 limón",
+      "1 cucharadita sal"
+    ],
+    "preparacion": "Paso 1: Limpia los camarones y reserva las cabezas y cáscaras para hacer un caldo concentrado si no tienes caldo de pescado. Asa los chiles guajillos, retira semillas y venas, y remójalos en agua caliente. Licúa los chiles remojados con tomate, cebolla y ajo. Paso 2: Sofríe la salsa licuada en una olla con un poco de aceite hasta que espese. Agrega el caldo de pescado (o el caldo hecho con las cabezas de camarón), la zanahoria y papa cortadas en cubos pequeños. Cocina hasta que las verduras estén tiernas. Paso 3: Cuando las verduras estén cocidas, añade los camarones y cocina por 3-5 minutos hasta que cambien de color. No cocines demasiado para evitar que queden gomosos. Sirve caliente, acompañado de cilantro picado y rodajas de limón. Sirve caliente.",
+    "tiempo": "40 min",
+    "dificultad": "media",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "celiaquia",
+        "colesterol_alto"
+      ],
+      "alergias_comunes": [
+        "mariscos"
+      ],
+      "tags_nutricionales": [
+        "alto_proteina",
+        "rico_omega3",
+        "sin_gluten"
+      ]
+    }
+  },
+  {
+    "id": 1010,
+    "nombre": "Locro de Papa Ecuatoriano",
+    "ingredientes": [
+      "papa",
+      "cebolla",
+      "ajo",
+      "leche",
+      "queso fresco",
+      "aguacate",
+      "achiote",
+      "sal",
+      "cilantro"
+    ],
+    "cantidades": [
+      "1 kilo papa",
+      "1/2 cebolla blanca",
+      "2 diente ajo",
+      "2 taza leche entera",
+      "150 gramo queso fresco",
+      "1/2 aguacate",
+      "1 cucharadita achiote en polvo",
+      "1 cucharadita sal",
+      "1/4 taza cilantro fresco"
+    ],
+    "preparacion": "Paso 1: Pela las papas y córtalas en cubos pequeños. En una olla grande, sofríe la cebolla picada y el ajo con un poco de aceite y el achiote en polvo hasta que la cebolla esté transparente. Paso 2: Agrega las papas a la olla, cubre con agua (apenas para cubrir las papas) y sazona con sal. Cocina a fuego medio, revolviendo ocasionalmente, hasta que las papas estén muy blandas y algunas se empiecen a deshacer, creando una base espesa. Paso 3: Vierte la leche y cocina por unos minutos más sin dejar que hierva a borbotones. Agrega el queso fresco desmenuzado y revuelve hasta que se derrita ligeramente. Sirve caliente, decorado con aguacate en cubos y cilantro fresco picado. Sirve caliente.",
+    "tiempo": "45 min",
+    "dificultad": "fácil",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "celiaquia"
+      ],
+      "alergias_comunes": [
+        "lactosa"
+      ],
+      "tags_nutricionales": [
+        "vegetariano",
+        "sin_gluten",
+        "alto_fibra"
+      ]
+    }
+  },
+  {
+    "id": 1011,
+    "nombre": "Caldo Tlalpeño Tradicional",
+    "ingredientes": [
+      "pollo",
+      "garbanzo",
+      "zanahoria",
+      "papa",
+      "caldo de pollo",
+      "chile chipotle",
+      "cebolla",
+      "ajo",
+      "aguacate",
+      "queso fresco",
+      "limón",
+      "cilantro",
+      "sal"
+    ],
+    "cantidades": [
+      "500 gramo pollo (pechuga o muslo)",
+      "1 taza garbanzo cocido",
+      "1 zanahoria mediana",
+      "1 papa mediana",
+      "5 taza caldo de pollo",
+      "1 chile chipotle en adobo",
+      "1/4 cebolla blanca",
+      "2 diente ajo",
+      "1/2 aguacate",
+      "50 gramo queso fresco",
+      "1/2 limón",
+      "1/4 taza cilantro fresco",
+      "1 cucharadita sal"
+    ],
+    "preparacion": "Paso 1: Cocina el pollo en el caldo de pollo con un trozo de cebolla y un diente de ajo hasta que esté cocido. Retira el pollo, desmenuza y reserva el caldo. Pica la zanahoria y papa en cubos pequeños. Paso 2: En el caldo caliente, agrega la zanahoria, papa y garbanzos cocidos. Cocina hasta que las verduras estén tiernas. Licúa el chile chipotle con un poco de caldo y el otro diente de ajo. Cuela esta mezcla y añádela al caldo, sazona con sal. Paso 3: Incorpora el pollo desmenuzado al caldo y cocina por 5 minutos más. Sirve caliente, adornado con cubos de aguacate, queso fresco desmoronado, cilantro picado y un chorrito de limón al gusto. Sirve caliente.",
+    "tiempo": "50 min",
+    "dificultad": "fácil",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "diabetes",
+        "hipertension",
+        "celiaquia",
+        "colesterol_alto",
+        "resistencia_insulina"
+      ],
+      "alergias_comunes": [
+        "lactosa"
+      ],
+      "tags_nutricionales": [
+        "alto_proteina",
+        "alto_fibra",
+        "bajo_grasa",
+        "sin_gluten"
+      ]
+    }
+  },
+  {
+    "id": 1018,
+    "nombre": "Calabacitas a la Mexicana con Elote",
+    "ingredientes": [
+      "calabaza",
+      "tomate",
+      "cebolla",
+      "chile serrano",
+      "elote",
+      "cilantro",
+      "aceite vegetal",
+      "sal"
+    ],
+    "cantidades": [
+      "3 calabazas medianas",
+      "2 tomates medianos",
+      "1/2 cebolla blanca",
+      "1 chile serrano",
+      "1 taza de elote desgranado",
+      "1/4 taza de cilantro fresco",
+      "1 cucharada de aceite vegetal",
+      "1/2 cucharadita de sal"
+    ],
+    "preparacion": "Paso 1: Pica finamente la cebolla, el tomate, el chile serrano y las calabazas. En una sartén, calienta el aceite vegetal y sofríe la cebolla hasta que esté transparente. Paso 2: Agrega el chile serrano y el tomate picado, cocina por 5 minutos hasta que el tomate suelte su jugo. Incorpora las calabazas y el elote desgranado, sazona con sal. Paso 3: Tapa la sartén y cocina a fuego medio bajo por unos 10-15 minutos, o hasta que las calabazas estén tiernas. Remueve ocasionalmente. Finalmente, añade el cilantro picado y mezcla bien antes de servir. Sirve caliente.",
+    "tiempo": "25 min",
+    "dificultad": "fácil",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "diabetes",
+        "colesterol_alto",
+        "resistencia_insulina"
+      ],
+      "alergias_comunes": [],
+      "tags_nutricionales": [
+        "vegetariano",
+        "alto_fibra",
+        "bajo_calorias"
+      ]
+    }
+  },
+  {
+    "id": 1019,
+    "nombre": "Sopa Cremosa de Frijol Negro con Totopos",
+    "ingredientes": [
+      "frijol negro",
+      "agua",
+      "cebolla",
+      "ajo",
+      "epazote",
+      "aceite vegetal",
+      "tortilla de maiz",
+      "aguacate",
+      "crema agria",
+      "sal"
+    ],
+    "cantidades": [
+      "2 tazas de frijol negro cocido",
+      "3 tazas de agua",
+      "1/4 cebolla blanca",
+      "1 diente de ajo",
+      "2 ramitas de epazote fresco",
+      "1 cucharada de aceite vegetal",
+      "4 tortillas de maiz",
+      "1/2 aguacate",
+      "2 cucharadas de crema agria",
+      "1 cucharadita de sal"
+    ],
+    "preparacion": "Paso 1: En una licuadora, combina los frijoles negros cocidos con la cebolla, el ajo y el agua. Licúa hasta obtener una mezcla suave y homogénea. Paso 2: Calienta el aceite vegetal en una olla y vierte la mezcla de frijol. Agrega las ramitas de epazote y sazona con sal. Cocina a fuego medio, revolviendo ocasionalmente, hasta que la sopa espese ligeramente, unos 10 minutos. Retira el epazote. Paso 3: Corta las tortillas de maíz en tiras finas y fríelas en aceite caliente hasta que estén doradas y crujientes (totopos). Sirve la sopa caliente, decorada con aguacate en cubos, un poco de crema agria y los totopos recién hechos. Sirve caliente.",
+    "tiempo": "30 min",
+    "dificultad": "fácil",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "colesterol_alto"
+      ],
+      "alergias_comunes": [
+        "gluten"
+      ],
+      "tags_nutricionales": [
+        "vegetariano",
+        "alto_fibra",
+        "alto_proteina",
+        "sin_gluten"
+      ]
+    }
+  },
+  {
+    "id": 1020,
+    "nombre": "Tacos de Papa con Nopalitos y Cilantro",
+    "ingredientes": [
+      "papa",
+      "nopal cocido",
+      "cebolla",
+      "cilantro",
+      "aceite vegetal",
+      "tortilla de maiz",
+      "sal"
+    ],
+    "cantidades": [
+      "2 papas medianas",
+      "1 taza de nopal cocido picado",
+      "1/4 cebolla blanca",
+      "2 cucharadas de cilantro fresco",
+      "2 cucharadas de aceite vegetal",
+      "8 tortillas de maiz",
+      "1/2 cucharadita de sal"
+    ],
+    "preparacion": "Paso 1: Cocina las papas en agua hirviendo con un poco de sal hasta que estén muy tiernas. Escurre y machaca hasta obtener un puré rústico. Pica finamente la cebolla y el cilantro. Paso 2: En una sartén, calienta una cucharada de aceite vegetal y sofríe la cebolla hasta que esté transparente. Agrega los nopalitos picados y cocina por 5 minutos. Incorpora el puré de papa, el cilantro picado y sazona con sal. Mezcla bien y cocina por unos minutos más. Paso 3: Calienta las tortillas de maíz en un comal. Rellena cada tortilla con una porción de la mezcla de papa y nopalitos. Dobla y sirve inmediatamente. Sirve caliente.",
+    "tiempo": "35 min",
+    "dificultad": "fácil",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "colesterol_alto"
+      ],
+      "alergias_comunes": [],
+      "tags_nutricionales": [
+        "vegetariano",
+        "alto_fibra",
+        "sin_gluten"
+      ]
+    }
+  },
+  {
+    "id": 1021,
+    "nombre": "Enfrijoladas de Queso Fresco con Crema y Aguacate",
+    "ingredientes": [
+      "tortilla de maiz",
+      "frijol negro",
+      "queso fresco",
+      "cebolla",
+      "ajo",
+      "aceite vegetal",
+      "aguacate",
+      "crema",
+      "sal"
+    ],
+    "cantidades": [
+      "12 tortillas de maiz",
+      "2 tazas de frijol negro cocido",
+      "150 gramo de queso fresco",
+      "1/4 cebolla blanca",
+      "1 diente de ajo",
+      "2 cucharadas de aceite vegetal",
+      "1/2 aguacate",
+      "2 cucharadas de crema",
+      "1 cucharadita de sal"
+    ],
+    "preparacion": "Paso 1: Licúa los frijoles negros cocidos con la cebolla, el ajo y un poco de agua si es necesario, hasta obtener una salsa tersa. Calienta una cucharada de aceite en una olla y vierte la salsa de frijol; cocina a fuego medio hasta que espese ligeramente, sazona con sal. Paso 2: Calienta el aceite restante en una sartén. Pasa cada tortilla rápidamente por el aceite caliente (sin dorar) y luego sumérgela en la salsa de frijol caliente. Paso 3: Rellena cada tortilla bañada en frijol con un poco de queso fresco desmoronado, enróllala o dóblala. Coloca las enfrijoladas en un plato, báñalas con más salsa de frijol, espolvorea queso fresco adicional, un chorrito de crema y aguacate en cubos. Sirve caliente.",
+    "tiempo": "40 min",
+    "dificultad": "media",
+    "metadata_salud": {
+      "apto_para_condiciones": [],
+      "alergias_comunes": [
+        "gluten"
+      ],
+      "tags_nutricionales": [
+        "vegetariano",
+        "sin_gluten",
+        "alto_fibra"
+      ]
+    }
+  },
+  {
+    "id": 1022,
+    "nombre": "Chiles Poblanos Rellenos de Elote y Queso",
+    "ingredientes": [
+      "chile poblano",
+      "elote",
+      "queso oaxaca",
+      "cebolla",
+      "ajo",
+      "aceite vegetal",
+      "sal"
+    ],
+    "cantidades": [
+      "4 chiles poblanos",
+      "1 taza de elote desgranado",
+      "200 gramo de queso oaxaca",
+      "1/4 cebolla blanca",
+      "1 diente de ajo",
+      "1 cucharada de aceite vegetal",
+      "1/2 cucharadita de sal"
+    ],
+    "preparacion": "Paso 1: Asa los chiles poblanos directamente sobre la flama de la estufa o en un comal caliente hasta que la piel esté quemada por todos lados. Mételos en una bolsa de plástico por 10 minutos para que suden. Luego, pélalos, retira las semillas y las venas, haciendo un corte a lo largo sin abrirlos completamente. Paso 2: Pica finamente la cebolla y el ajo. En una sartén, calienta el aceite y sofríe la cebolla y el ajo hasta que estén fragantes. Agrega el elote desgranado y cocina por 5 minutos. Retira del fuego. Paso 3: Rellena cada chile poblano con una porción de la mezcla de elote y queso Oaxaca rallado. Calienta los chiles rellenos en un comal o en un horno a temperatura baja hasta que el queso se derrita. Sirve caliente.",
+    "tiempo": "45 min",
+    "dificultad": "media",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "hipertension"
+      ],
+      "alergias_comunes": [],
+      "tags_nutricionales": [
+        "vegetariano",
+        "alto_fibra",
+        "bajo_sodio"
+      ]
+    }
+  },
+  {
+    "id": 1023,
+    "nombre": "Tostadas de Tinga de Zanahoria",
+    "ingredientes": [
+      "zanahoria",
+      "tomate",
+      "cebolla",
+      "chile chipotle",
+      "tostada de maiz",
+      "lechuga",
+      "crema",
+      "queso fresco",
+      "aceite vegetal",
+      "sal"
+    ],
+    "cantidades": [
+      "3 zanahorias medianas",
+      "2 tomates medianos",
+      "1 cebolla blanca",
+      "1 chile chipotle en adobo",
+      "8 tostadas de maiz",
+      "1 taza de lechuga rallada",
+      "1/4 taza de crema",
+      "50 gramo de queso fresco",
+      "2 cucharadas de aceite vegetal",
+      "1/2 cucharadita de sal"
+    ],
+    "preparacion": "Paso 1: Hierve las zanahorias hasta que estén tiernas, escúrrelas y rállalas. Rebana la cebolla en juliana. Licúa los tomates con el chile chipotle y un poco de agua o caldo. Paso 2: En una sartén, calienta el aceite vegetal y sofríe la cebolla en juliana hasta que esté suave. Agrega la zanahoria rallada y cocina por unos minutos. Vierte la salsa de tomate y chipotle, sazona con sal y cocina a fuego bajo hasta que la salsa espese y se haya absorbido bien. Paso 3: Extiende una porción de la tinga de zanahoria sobre cada tostada de maíz. Decora con lechuga rallada, un chorrito de crema y espolvorea queso fresco desmoronado. Sirve de inmediato.",
+    "tiempo": "35 min",
+    "dificultad": "fácil",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "colesterol_alto"
+      ],
+      "alergias_comunes": [
+        "gluten"
+      ],
+      "tags_nutricionales": [
+        "vegetariano",
+        "alto_fibra",
+        "bajo_calorias",
+        "antioxidante"
+      ]
+    }
+  },
+  {
+    "id": 1024,
+    "nombre": "Ensalada Fresca de Nopalitos con Queso Panela",
+    "ingredientes": [
+      "nopal cocido",
+      "tomate",
+      "cebolla",
+      "cilantro",
+      "queso panela",
+      "limon",
+      "aceite de oliva",
+      "sal"
+    ],
+    "cantidades": [
+      "2 tazas de nopal cocido picado",
+      "2 tomates medianos",
+      "1/4 cebolla morada",
+      "1/4 taza de cilantro fresco",
+      "100 gramo de queso panela",
+      "1/2 limon",
+      "2 cucharadas de aceite de oliva",
+      "1/2 cucharadita de sal"
+    ],
+    "preparacion": "Paso 1: Pica los nopalitos cocidos en cubos pequeños. Pica los tomates, la cebolla morada y el cilantro finamente. Corta el queso panela en cubos. Paso 2: En un tazón grande, combina los nopalitos, el tomate, la cebolla morada y el cilantro. Agrega los cubos de queso panela. Paso 3: Exprime el jugo de medio limón sobre la ensalada. Rocía con el aceite de oliva y sazona con sal al gusto. Mezcla suavemente todos los ingredientes y sirve inmediatamente. Ideal como guarnición o platillo ligero.",
+    "tiempo": "15 min",
+    "dificultad": "fácil",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "diabetes",
+        "hipertension",
+        "colesterol_alto",
+        "resistencia_insulina"
+      ],
+      "alergias_comunes": [],
+      "tags_nutricionales": [
+        "vegetariano",
+        "sin_gluten",
+        "alto_fibra",
+        "bajo_calorias",
+        "bajo_grasa"
+      ]
+    }
+  },
+  {
+    "id": 1025,
+    "nombre": "Picadillo Vegetariano de Lentejas",
+    "ingredientes": [
+      "lenteja",
+      "zanahoria",
+      "papa",
+      "tomate",
+      "cebolla",
+      "ajo",
+      "comino",
+      "caldo de verdura",
+      "aceite vegetal",
+      "sal"
+    ],
+    "cantidades": [
+      "1 taza de lenteja cocida",
+      "1 zanahoria mediana",
+      "1 papa mediana",
+      "2 tomates medianos",
+      "1/2 cebolla blanca",
+      "2 dientes de ajo",
+      "1/4 cucharadita de comino molido",
+      "1 taza de caldo de verdura",
+      "2 cucharadas de aceite vegetal",
+      "1 cucharadita de sal"
+    ],
+    "preparacion": "Paso 1: Pica finamente la cebolla y el ajo. Pela y pica en cubos pequeños la zanahoria y la papa. Pica los tomates. Paso 2: En una olla, calienta el aceite vegetal y sofríe la cebolla y el ajo hasta que estén translúcidos. Agrega la zanahoria y la papa en cubos, y cocina por unos 5 minutos, revolviendo ocasionalmente. Incorpora el tomate picado y el comino, cocina hasta que el tomate se ablande. Paso 3: Añade las lentejas cocidas y el caldo de verdura. Sazona con sal. Deja cocer a fuego medio bajo por unos 15-20 minutos, o hasta que las verduras estén tiernas y la salsa haya reducido un poco. Sirve caliente, solo o con arroz. Sirve caliente.",
+    "tiempo": "45 min",
+    "dificultad": "media",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "diabetes",
+        "colesterol_alto",
+        "resistencia_insulina"
+      ],
+      "alergias_comunes": [],
+      "tags_nutricionales": [
+        "vegetariano",
+        "alto_proteina",
+        "alto_fibra",
+        "bajo_grasa"
+      ]
+    }
+  },
+  {
+    "id": 1026,
+    "nombre": "Mole de Olla Vegetariano con Verduras de Temporada",
+    "ingredientes": [
+      "chile guajillo",
+      "chile ancho",
+      "tomate",
+      "cebolla",
+      "ajo",
+      "elote",
+      "calabaza",
+      "chayote",
+      "papa",
+      "epazote",
+      "caldo de verdura",
+      "aceite vegetal",
+      "sal"
+    ],
+    "cantidades": [
+      "2 chiles guajillo secos",
+      "1 chile ancho seco",
+      "2 tomates medianos",
+      "1/4 cebolla blanca",
+      "2 dientes de ajo",
+      "1 taza de elote desgranado",
+      "1 calabaza pequeña",
+      "1 chayote pequeño",
+      "1 papa pequeña",
+      "2 ramitas de epazote fresco",
+      "4 tazas de caldo de verdura",
+      "1 cucharada de aceite vegetal",
+      "1 cucharadita de sal"
+    ],
+    "preparacion": "Paso 1: Desvena y retira las semillas de los chiles guajillo y ancho. Caliéntalos ligeramente en un comal y luego hidrátalos en agua caliente por 15 minutos. Licúa los chiles hidratados con los tomates, la cebolla y el ajo hasta obtener una salsa fina. Cuela la salsa. Paso 2: Pela y corta las verduras (calabaza, chayote, papa) en trozos medianos. En una olla grande, calienta el aceite vegetal y vierte la salsa colada, cocina por 5-7 minutos hasta que espese. Paso 3: Agrega las verduras picadas, el elote desgranado, las ramitas de epazote y el caldo de verdura. Sazona con sal al gusto. Cocina a fuego medio por 20-30 minutos, o hasta que todas las verduras estén tiernas. Sirve caliente en tazones hondos. Sirve caliente.",
+    "tiempo": "60 min",
+    "dificultad": "media",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "colesterol_alto"
+      ],
+      "alergias_comunes": [],
+      "tags_nutricionales": [
+        "vegetariano",
+        "alto_fibra",
+        "bajo_calorias",
+        "antioxidante"
+      ]
+    }
+  },
+  {
+    "id": 1027,
+    "nombre": "Quesadillas de Huitlacoche y Flor de Calabaza",
+    "ingredientes": [
+      "tortilla de maiz",
+      "huitlacoche",
+      "flor de calabaza",
+      "queso oaxaca",
+      "cebolla",
+      "ajo",
+      "aceite vegetal",
+      "sal"
+    ],
+    "cantidades": [
+      "8 tortillas de maiz",
+      "1 taza de huitlacoche",
+      "1 taza de flor de calabaza",
+      "200 gramo de queso oaxaca",
+      "1/4 cebolla blanca",
+      "1 diente de ajo",
+      "1 cucharada de aceite vegetal",
+      "1/2 cucharadita de sal"
+    ],
+    "preparacion": "Paso 1: Pica finamente la cebolla y el ajo. Limpia y pica la flor de calabaza (retira el tallo y pistilos). Si el huitlacoche es fresco, pícalo ligeramente. Paso 2: En una sartén, calienta el aceite vegetal y sofríe la cebolla y el ajo hasta que estén transparentes. Agrega el huitlacoche y la flor de calabaza, sazona con sal. Cocina a fuego medio por unos 5-7 minutos, hasta que las flores se marchiten y el huitlacoche se cocine. Paso 3: Calienta las tortillas de maíz en un comal. Coloca una porción del guisado de huitlacoche y flor de calabaza en la mitad de cada tortilla, junto con un poco de queso Oaxaca deshebrado. Dobla la tortilla y cocina por ambos lados hasta que el queso se derrita y la tortilla esté ligeramente dorada. Sirve caliente.",
+    "tiempo": "30 min",
+    "dificultad": "fácil",
+    "metadata_salud": {
+      "apto_para_condiciones": [
+        "hipertension"
+      ],
+      "alergias_comunes": [
+        "gluten"
+      ],
+      "tags_nutricionales": [
+        "vegetariano",
+        "sin_gluten",
+        "bajo_calorias",
+        "bajo_sodio"
+      ]
+    }
+  }
+]
